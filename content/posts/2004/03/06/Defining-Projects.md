@@ -1,5 +1,5 @@
 ---
-title: "Defining "Projects""
+title: "Defining \"Projects\""
 date: 2004-03-06
 draft: true
 ---

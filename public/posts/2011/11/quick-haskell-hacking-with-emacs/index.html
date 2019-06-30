@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-us">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Quick Haskell Hacking with Emacs - Prehensile Tail</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+	
+	<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Quick Haskell Hacking with Emacs"/>
+<meta name="twitter:description" content="A couple days ago I was playing around with my Emacs configuration a bit and decided to see if I could find ways to make it a more direct part of my flow (whatever the hell that means). For a quick sample of sorts, I threw together this little hack that let&rsquo;s me popup a quick Emacs window with a buffer that&rsquo;s already running haskell-mode (I assume here that you already have it installed, if not, you can find info on the haskell-mode page)."/>
+
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container">
+		<div class="logo">
+			<a class="logo__link" href="/" title="Prehensile Tail" rel="home">
+				<div class="logo__title">Prehensile Tail</div>
+				<div class="logo__tagline">Are we not men?</div>
+			</a>
+		</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/about">About</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/posts">Blog</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/notes">Notes</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Quick Haskell Hacking with Emacs</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg>
+	<time class="meta__text" datetime="2011-11-11T00:00:00">November 11, 2011</time>
+</div>
+</div>
+		</header><div class="content post__content clearfix">
+			<p>A couple days ago I was playing around with my Emacs configuration a bit and decided to see if I could find ways to make it a more direct part of my <em>flow</em> (whatever the hell that means). For a quick sample of sorts, I threw together this little hack that let&rsquo;s me popup a quick Emacs window with a buffer that&rsquo;s already running <a href="http://www.haskell.org/haskellwiki/Haskell_mode_for_Emacs" title="Haskell Mode">haskell-mode</a> (I assume here that you already have it installed, if not, you can find info on the haskell-mode page). This is really a pretty silly hack and it lacks some niceties, but it has already proven handy in the last day or two.</p>
+
+<p>You&rsquo;ll want to add the following Elisp code somewhere in your Emacs config (I have mine in a file called <code>~/.emacs.d/customizations/haskell.el</code>):</p>
+
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-lisp" data-lang="lisp">    (defun make-quick-haskell-frame ()
+      <span style="color:#e6db74">&#34;Creates a new frame running haskell-mode.&#34;</span>
+      (make-frame <span style="color:#f92672">&#39;</span>((name <span style="color:#f92672">.</span> <span style="color:#e6db74">&#34;Quick Haskell&#34;</span>)
+                    (width <span style="color:#f92672">.</span> <span style="color:#ae81ff">120</span>)
+                    (height <span style="color:#f92672">.</span> <span style="color:#ae81ff">40</span>)))
+      (select-frame-by-name <span style="color:#e6db74">&#34;Quick Haskell&#34;</span>)
+      (switch-to-buffer <span style="color:#e6db74">&#34;Haskell&#34;</span>)
+      (haskell-mode))</code></pre></div>
+
+<p>You can test this by running <code>M-x make-quick-haskell-frame</code> within Emacs. If you see a new window with a buffer that is already in haskell-mode, you&rsquo;re all set. From here you can use the all the nice keybindings of this mode to play around as much as you want (e.g., type in some Haskell fragment and then hit <code>C-c C-l</code> to run load it into GHCi).</p>
+
+<p>Next you&rsquo;ll probably want to set up a global hotkey so you can bring up this window from anywhere. I personally use <a href="http://www.alfredapp.com/" title="Alfred App">Alfred</a> with the Powerpack option that gives me the ability to set up hotkeys, but I&rsquo;m sure something similar will work for other options.</p>
+
+<p>You&rsquo;ll first need to create an Applescript file with contents similar to this (you&rsquo;ll need to adjust the path to the <code>emacsclient</code> binary you use):</p>
+
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-applescript" data-lang="applescript">    do shell script <span style="color:#e6db74">&#34;/usr/local/Cellar/emacs/HEAD/Emacs.app/Contents/MacOS/bin/emacsclient \
+</span><span style="color:#e6db74">      -n -e &#39;(make-quick-haskell-frame)&#39;&#34;</span></code></pre></div>
+
+<p>From there you can open up Alfred, go to Features &gt; System &gt; Global Hotkeys and click the plus sign to create a new hotkey. I used <code>Ctrl-Shift-h</code> for mine, but use whatever you think makes sense and is unlikely to interfere with other applications or system utilities. In the &ldquo;Action:&rdquo; field, click on Browse and navigate to wherever you stored the Applescript file you created earlier.</p>
+
+<p>Enjoy!</p>
+
+		</div>
+		
+<div class="post__tags tags clearfix">
+	<svg class="tags__icon icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item"><a class="tags__link btn" href="/tags/haskell/" rel="tag">Haskell</a></li>
+		<li class="tags__item"><a class="tags__link btn" href="/tags/emacs/" rel="tag">Emacs</a></li>
+	</ul>
+</div>
+	</article>
+</main>
+
+<div class="authorbox clearfix">
+	<div class="authorbox__header">
+		<span class="authorbox__name">About Thomas Lockney</span>
+	</div>
+	<div class="authorbox__description">
+		Instigator. Interests: dogs, distsys, data, ML/AI. Nike Engineering. Nike Tech Talks host. Views are my own.
+	</div>
+</div>
+
+<nav class="post-nav flex">
+	<div class="post-nav__item post-nav__item--next">
+		<a class="post-nav__link" href="/posts/2011/11/a-jvm-based-developers-reading-list/" rel="next"><span class="post-nav__caption">Next&thinsp;»</span><p class="post-nav__post-title">A reading list for JVM-based developers</p></a>
+	</div>
+</nav>
+
+
+			</div>
+			
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2019 Thomas Lockney.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script></body>
+</html>

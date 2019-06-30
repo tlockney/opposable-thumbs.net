@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scala on Prehensile Tail</title>
+    <link>/tags/scala/</link>
+    <description>Recent content in Scala on Prehensile Tail</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Aug 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/scala/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A few Akka posts</title>
+      <link>/posts/2012/08/a-few-akka-posts/</link>
+      <pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2012/08/a-few-akka-posts/</guid>
+      <description>Update: unfortunately, the Safari Books blog no longer seems to be around, so the following links are all broken. And consequently, the articles are now lost.
+Recently I was asked to write a few posts for the Safari Books Online blog. They were looking for Scala content, so I suggested Akka as a central theme. I wrote these posts with an audience in mind that hopefully would have been exposed to Scala (or could, at least, read a short Scala tutorial), but who had not yet written any Akka code.</description>
+    </item>
+    
+    <item>
+      <title>A reading list for JVM-based developers</title>
+      <link>/posts/2011/11/a-jvm-based-developers-reading-list/</link>
+      <pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2011/11/a-jvm-based-developers-reading-list/</guid>
+      <description>The other day, I found myself in a series of discussions with some fellow developers, in part about the performance characteristics of large numbers of threads in a JVM running on a Linux system. While I would not claim to be any sort of expert on the subject, it was clear that some of the information I had thought was fairly well known, was not nearly as pervasive as I assumed.</description>
+    </item>
+    
+  </channel>
+</rss>

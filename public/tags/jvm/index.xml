@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JVM on Prehensile Tail</title>
+    <link>/tags/jvm/</link>
+    <description>Recent content in JVM on Prehensile Tail</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Nov 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/jvm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A reading list for JVM-based developers</title>
+      <link>/posts/2011/11/a-jvm-based-developers-reading-list/</link>
+      <pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2011/11/a-jvm-based-developers-reading-list/</guid>
+      <description>The other day, I found myself in a series of discussions with some fellow developers, in part about the performance characteristics of large numbers of threads in a JVM running on a Linux system. While I would not claim to be any sort of expert on the subject, it was clear that some of the information I had thought was fairly well known, was not nearly as pervasive as I assumed.</description>
+    </item>
+    
+  </channel>
+</rss>

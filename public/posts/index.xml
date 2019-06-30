@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prehensile Tail</title>
-    <link>/</link>
-    <description>Recent content on Prehensile Tail</description>
+    <title>Posts on Prehensile Tail</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Prehensile Tail</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jun 2019 16:23:07 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 16 Aug 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Sat, 29 Jun 2019 16:23:07 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>I&amp;rsquo;m a Portland, Oregon based software engineer and leader passionate about building great engineering teams with a focus on autonomy and accountability. I&amp;rsquo;m currently employed at Nike as a Senior Engineering Manager where I work as part of the Nike Digital Platform Engineering organization. If you&amp;rsquo;ve used the Nike+ Run Club or Nike Training Club apps, your data is managed by the systems my team built. Our current focus is on building better capabilities to power our digital marketing efforts.</description>
-    </item>
     
     <item>
       <title>A few Akka posts</title>

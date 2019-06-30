@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-us">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>A reading list for JVM-based developers - Prehensile Tail</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+	
+	<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="A reading list for JVM-based developers"/>
+<meta name="twitter:description" content="The other day, I found myself in a series of discussions with some fellow developers, in part about the performance characteristics of large numbers of threads in a JVM running on a Linux system. While I would not claim to be any sort of expert on the subject, it was clear that some of the information I had thought was fairly well known, was not nearly as pervasive as I assumed."/>
+
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container">
+		<div class="logo">
+			<a class="logo__link" href="/" title="Prehensile Tail" rel="home">
+				<div class="logo__title">Prehensile Tail</div>
+				<div class="logo__tagline">Are we not men?</div>
+			</a>
+		</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/about">About</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/posts">Blog</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/notes">Notes</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">A reading list for JVM-based developers</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg>
+	<time class="meta__text" datetime="2011-11-25T00:00:00">November 25, 2011</time>
+</div>
+</div>
+		</header><div class="content post__content clearfix">
+			<p>The other day, I found myself in a series of discussions with some fellow developers, in part about the performance characteristics of large numbers of threads in a JVM running on a Linux system. While I would not claim to be any sort of expert on the subject, it was clear that some of the information I had thought was fairly well known, was not nearly as pervasive as I assumed. Later on, I was asked for some recommended reading on the subject and had to confess that I didn&rsquo;t know of much good material. As so often happens, though, I soon remembered a handful of resources that I feel are worth investigating.</p>
+
+<p>And so, here&rsquo;s my recommended reading list for developers who find themselves working in a JVM-based environment who need to understand the characteristics of that environment, particularly as it pertains to performance and concurrency issues. I can&rsquo;t, with any honesty at least, claim to have read all of these in whole. That said, after the previously mentioned conversations, I have decided it is worth my time to fill in the gaps in my knowledge, and am attempting to read and learn from each of these, as much as reasonable possible. It&rsquo;s fundamental to my beliefs that if you have any sense of dedication to craftmanship, it is imperative that you constantly seek to learn more.</p>
+
+<ul>
+<li><p><a href="http://www.amazon.com/gp/product/0137142528/ref=as_li_ss_tl?ie=UTF8&amp;tag=opposablethum-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0137142528">Java Performance</a> is a relative new-comer to the scene &mdash; it was just released in October &mdash; that appears to be a serious treasure-trove of good information. While it covers the obvious tools and techniques (profiling, benchmarking, tuning, etc.), it also includes in-depth information about less commonly considered items (OS-level tooling and monitoring, JIT and GC details, etc.) and even goes into areas such as considerations when dealing with JAX-RS based web applications.</p></li>
+
+<li><p><a href="http://www.amazon.com/gp/product/0321349601/ref=as_li_ss_tl?ie=UTF8&amp;tag=opposablethum-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0321349601">Java Concurrency in Practice</a> is the go to guide for anyone wanting to understand the complete details about the built in concurrency primitives and structures that are part of the Java standard library. Even if you won&rsquo;t be working with this directly, you really should understand the principles described here.</p></li>
+
+<li><p><a href="http://www.akkadia.org/drepper/cpumemory.pdf">What Every Programmer Should Know About Memory</a> (<a href="http://lwn.net/Articles/250967/">here&rsquo;s an alternate HTML version</a>) is a really thorough introduction to what is going on inside your systems memory. You&rsquo;ll learn far more than you probably want to know, but it&rsquo;s a good kind of suffering. Trust me. ;~)</p></li>
+
+<li><p><a href="http://www.amazon.com/gp/product/0672329468/ref=as_li_ss_tl?ie=UTF8&amp;tag=opposablethum-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0672329468">Linux Kernel Development (3rd Edition)</a> may not be an obvious choice, but the reality is that if you&rsquo;re developing server-based applications, chances are it will be running on a Linux system. This seems to be the best book out on the subject, but I&rsquo;m no expert. Anyway, it&rsquo;s worth understanding what&rsquo;s going on inside the kernel. I would not suggest you try to read all of this, unless you&rsquo;re really compelled to &mdash; it is a really well written book, after all &mdash; but at least read the chapters on process management and process scheduling. The chapters on the virtual filesystem and I/O are likely worth at least a skim, as well.</p></li>
+</ul>
+
+<p>Some less obvious, but still useful, reads:</p>
+
+<ul>
+<li><p><a href="http://www.amazon.com/gp/product/0321356683/ref=as_li_ss_tl?ie=UTF8&amp;tag=opposablethum-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0321356683">Effective Java</a>, while being essentially Java-based, is of use even for Scala and, quite likely, other JVM language programmers. Much of what applies to Java is going to be of use, or at least have an impact on, your choices as you design you system. If nothing else, it will give you good information to know about while you evaluate third-party libraries.</p></li>
+
+<li><p><a href="http://www.amazon.com/gp/product/1593271042/ref=as_li_ss_tl?ie=UTF8&amp;tag=opposablethum-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=1593271042">Inside the Machine</a>, despite being a few years out of date, is perhaps the best, accessible introduction to (nearly) modern processor architecture. While it doesn&rsquo;t cover the latest technology, it does give a good introduction to the x86 processor and the general direction it was heading as of late 2006. This book is out of print, but you can buy it in various ebook formats.</p></li>
+
+<li><p><a href="http://www.amazon.com/gp/product/0201432943/ref=as_li_ss_tl?ie=UTF8&amp;tag=opposablethum-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0201432943">The Java Virtual Machine Specification</a>, may not be your first choice for light reading, but much of the material here is really essential to understand.</p></li>
+
+<li><p><a href="http://www.cs.umd.edu/~pugh/java/memoryModel/jsr-133-faq.html">JSR 133 (Java Memory Model) FAQ</a> was, for a long time, the best place to get a readable understanding of the Java memory model without having to dig into the details of the specification itself.</p></li>
+</ul>
+
+<p>With that, you should have plenty to keep yourself busy for a while. I welcome suggestions for other material and hope to create additional reading list posts in the future &mdash; as most of my friends know, I read a <em>lot</em>.</p>
+
+		</div>
+		
+<div class="post__tags tags clearfix">
+	<svg class="tags__icon icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item"><a class="tags__link btn" href="/tags/jvm/" rel="tag">JVM</a></li>
+		<li class="tags__item"><a class="tags__link btn" href="/tags/scala/" rel="tag">Scala</a></li>
+		<li class="tags__item"><a class="tags__link btn" href="/tags/java/" rel="tag">Java</a></li>
+		<li class="tags__item"><a class="tags__link btn" href="/tags/linux/" rel="tag">Linux</a></li>
+	</ul>
+</div>
+	</article>
+</main>
+
+<div class="authorbox clearfix">
+	<div class="authorbox__header">
+		<span class="authorbox__name">About Thomas Lockney</span>
+	</div>
+	<div class="authorbox__description">
+		Instigator. Interests: dogs, distsys, data, ML/AI. Nike Engineering. Nike Tech Talks host. Views are my own.
+	</div>
+</div>
+
+<nav class="post-nav flex">
+	<div class="post-nav__item post-nav__item--prev">
+		<a class="post-nav__link" href="/posts/2011/11/quick-haskell-hacking-with-emacs/" rel="prev"><span class="post-nav__caption">«&thinsp;Previous</span><p class="post-nav__post-title">Quick Haskell Hacking with Emacs</p></a>
+	</div>
+	<div class="post-nav__item post-nav__item--next">
+		<a class="post-nav__link" href="/posts/2012/08/a-few-akka-posts/" rel="next"><span class="post-nav__caption">Next&thinsp;»</span><p class="post-nav__post-title">A few Akka posts</p></a>
+	</div>
+</nav>
+
+
+			</div>
+			
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2019 Thomas Lockney.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script></body>
+</html>

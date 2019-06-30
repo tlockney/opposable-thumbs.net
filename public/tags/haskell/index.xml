@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haskell on Prehensile Tail</title>
+    <link>/tags/haskell/</link>
+    <description>Recent content in Haskell on Prehensile Tail</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Nov 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/haskell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quick Haskell Hacking with Emacs</title>
+      <link>/posts/2011/11/quick-haskell-hacking-with-emacs/</link>
+      <pubDate>Fri, 11 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2011/11/quick-haskell-hacking-with-emacs/</guid>
+      <description>A couple days ago I was playing around with my Emacs configuration a bit and decided to see if I could find ways to make it a more direct part of my flow (whatever the hell that means). For a quick sample of sorts, I threw together this little hack that let&amp;rsquo;s me popup a quick Emacs window with a buffer that&amp;rsquo;s already running haskell-mode (I assume here that you already have it installed, if not, you can find info on the haskell-mode page).</description>
+    </item>
+    
+  </channel>
+</rss>
