@@ -2,7 +2,6 @@
 title: "About"
 date: 2019-06-29T16:23:07-07:00
 draft: false	
-menu: "Main"	
 ---
 
 I'm a Portland, Oregon based software engineer and leader passionate about building great engineering teams with a focus on autonomy and accountability. I'm currently employed at Nike as a Senior Engineering Manager where I work as part of the Nike Digital Platform Engineering organization. If you've used the Nike+ Run Club or Nike Training Club apps, your data is managed by the systems my team built. Our current focus is on building better capabilities to power our digital marketing efforts.
