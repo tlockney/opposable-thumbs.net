@@ -1,0 +1,8 @@
+---
+title: "High on Fire"
+date: 2007-10-17
+draft: true
+---
+I just had to share this (hope the embedded object works) 
+
+<object width="340" height="289" id="player" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://web.archive.org/web/20090205154227oe_/http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" align="middle"> <param name="movie" value="http://cdn.last.fm/videoplayer/33/VideoPlayer.swf"/> <param name="menu" value="false"/> <param name="quality" value="high"/> <param name="bgcolor" value="#000000"/> <param name="allowFullScreen" value="true"/> <param name="flashvars" value="embed=true&amp;creator=High+on+Fire&amp;title=Hung%2C+Drawn+and+Quartered&amp;uniqueName=Hung%2C+Drawn+and+Quartered&amp;albumArt=http://cdn.last.fm/coverart/130x130/2194351-864244419.jpg&amp;album=Surrounded+by+Thieves&amp;duration=271&amp;image=http://panther3.last.fm/storable/videocap/20837/0/original.jpg&amp;FSSupport=true"/> <embed src="https://web.archive.org/web/20090205154227oe_/http://cdn.last.fm/videoplayer/33/VideoPlayer.swf" menu="false" quality="high" bgcolor="#000000" width="340" height="289" name="player" align="middle" allowfullscreen="true" flashvars="embed=true&amp;creator=High+on+Fire&amp;title=Hung%2C+Drawn+and+Quartered&amp;uniqueName=Hung%2C+Drawn+and+Quartered&amp;albumArt=http://cdn.last.fm/coverart/130x130/2194351-864244419.jpg&amp;album=Surrounded+by+Thieves&amp;duration=271&amp;image=http://panther3.last.fm/storable/videocap/20837/0/original.jpg&amp;FSSupport=true" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"/> </object>

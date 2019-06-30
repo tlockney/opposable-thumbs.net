@@ -1,0 +1,46 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Prehensile Tail"
+theme = "mainroad"
+
+[Author]
+	name = "Thomas Lockney"
+	bio = "Instigator. Interests: dogs, distsys, data, ML/AI. Nike Engineering. Nike Tech Talks host. Views are my own."
+
+[Params]
+	subtitle = "Are we not men?"
+	copyright = "Thomas Lockney"
+	twitter_cards = true
+	authorbox = true
+	post_meta = ["date", "categories", "translations"]
+	post_navigation = true	
+
+[Params.sidebar]
+	home = "right"
+	list = "right"
+	single = false
+	widgets = ["recent", "social", "sidemenu"]
+
+[Params.widgets.social]
+	twitter = "tlockney"
+	linkedin = "thomaslockney"
+	instagram = "tlockney"
+	github = "tlockney"
+
+[[menu.main]]
+	identifier = "blog"
+	name = "Blog"
+	url = "/posts"
+	weight = 100
+
+[[menu.main]]
+	identifier = "about"
+	name = "About"
+	url = "/about"
+	weight = 100
+
+[[menu.main]]
+	identifier = "notes"
+	name = "Notes"
+	url = "/notes"
+	weight = 100
