@@ -1,7 +1,7 @@
 ---
 title: "Latest Update on the Future Move"
 date: 2003-09-11T16:40:00-07:00
-draft: true
+draft: false
 ---
 Well, as usual, it's been a while. The biggest news I can come up with at the moment is that we've expanded the list of choices for our move next year. After some serious discussion about which schools Nicole's applying to, we decided that we should probably look a little more abroad. Not that we have any problem with Boston, it's just that certain decisions she had made about the schools there and the line of reasoning we had used to choose the right schools for her had eliminated all but two schools from the list: Harvard and Boston University (at least at that point).
 
