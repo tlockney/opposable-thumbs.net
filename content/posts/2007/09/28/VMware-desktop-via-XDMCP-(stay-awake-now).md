@@ -1,7 +1,7 @@
 ---
 title: "VMware Desktop via XDMCP (Stay Awake Now)"
 date: 2007-09-28
-draft: true
+draft: false
 ---
 So, in the effort to get myself setup to work on my desktop machine, I've been thinking about a different approach to my workspace configuration. I'm not talking about the physical workspace, though I've had many thoughts about that, too. This is about my virtual workspace. Really, truly virtual.  
 

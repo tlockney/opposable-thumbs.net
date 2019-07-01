@@ -1,7 +1,7 @@
 ---
 title: "An Interesting Question"
 date: 2004-09-22T13:02:00-07:00
-draft: true
+draft: false
 ---
 [Matt asks an interesting question: ](https://web.archive.org/web/20040924085445/http://www.parentetx.com/archives/2004_09.html#000336 "Parentetx.com: September 2004 Archives")
 

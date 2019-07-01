@@ -1,7 +1,7 @@
 ---
 title: "Dorkbot, FOSCON/OSCON, Book Reviews and More"
 date: 2006-08-14
-draft: true
+draft: false
 ---
 So, just a quick update to let everyone know why I've disappeared and have been unable to find even a few spare seconds to update the blog. I've been just a wee bit busy.
 

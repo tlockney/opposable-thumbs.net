@@ -1,7 +1,7 @@
 ---
 title: "Quetzacoatl's Cakehole"
 date: 2003-11-08
-draft: true
+draft: false
 ---
 
 So, back in the mid nineties, a couple of years after dropping out of UT, I was involved with a couple of guys in a musical experiment of sorts. You might call it a band, but I'm not sure that would have been the best way to describe it. Granted, that may have been how others would have described us, but it doesn't seem to really capture the way we thought of ourselves.

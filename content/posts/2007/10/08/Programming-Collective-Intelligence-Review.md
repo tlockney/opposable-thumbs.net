@@ -1,7 +1,7 @@
 ---
 title: "Programming Collective Intelligence Review"
 date: 2007-10-08
-draft: true
+draft: false
 ---
 _This is a review I wrote on Amazon for [Programming Collective Intelligence](https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325/) by Toby Segaran. I decided I should post a copy of it here for safe keeping. I hope to write a more detailed review of it at some point, but we'll see how far that idea gets._
 

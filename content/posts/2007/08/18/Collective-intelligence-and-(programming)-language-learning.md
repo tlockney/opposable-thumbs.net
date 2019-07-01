@@ -1,7 +1,7 @@
 ---
 title: "Collective Intelligence and (Programming) Language Learning"
 date: 2007-08-18
-draft: true
+draft: false
 ---
 
 So, the other night at [DorkbotPDX](https://web.archive.org/web/20090205154227/http://dorkbotpdx.org/), there was a discussion about techniques for making images searchable. The idea was to come up with something beyond what [Google Images](https://web.archive.org/web/20090205154227/http://images.google.com/) gives you and have something more in depth -- among other things, the idea of categorizing things like [Pandora](https://web.archive.org/web/20090205154227/http://pandora.com/) does, using collective organization based on a large body of contributors, was discussed. There were a lot of interesting ideas thrown around, but most of them seemed to rely on this approach of using large social structures to generate the relevant metadata.

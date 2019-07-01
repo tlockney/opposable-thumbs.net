@@ -1,7 +1,7 @@
 ---
 title: "Simplifying"
 date: 2004-08-01
-draft: true
+draft: false
 ---
 I guess sometimes in an effort to make things more flexible, they just get more complicated. A few months back I set up a couple of additional blogs so that I could seperate out my more technical content and so that I could post simple links. Unfortunately, I'm not so consistent with the posting. So one barely maintained blog turned into three empty voids. 
 

@@ -1,7 +1,7 @@
 ---
 title: "RubyMesh Lives!"
 date: 2006-11-19
-draft: true
+draft: false
 ---
 well, sorta anyway. I did some more playing around with why's modifications to mod_ruby and was able to throw together a quick test to show that in fact it should be quite possible to implement a SiteMesh-like system using Apache, mod_ruby (patched) and [Hpricot](https://web.archive.org/web/20071226040630/http://code.whytheluckystiff.net/hpricot). Here's, in short, how I did it.
 

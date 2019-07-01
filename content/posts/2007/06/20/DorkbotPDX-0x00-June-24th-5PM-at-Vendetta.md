@@ -1,7 +1,7 @@
 ---
 title: "DorkbotPDX 0x00 June 24th 5PM at Vendetta"
 date: 2007-06-20
-draft: true
+draft: false
 ---
 
 So, it occured to me that after soliciting everyone in [DorkbotPDX](https://web.archive.org/web/20090205154227/http://dorkbotpdx.org/) to post the announcement for this to their blogs, I failed to do so myself. Bad self! So, here it is, the official announcement for the first ever DorkbotPDX event:

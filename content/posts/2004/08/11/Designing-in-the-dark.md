@@ -1,7 +1,7 @@
 ---
 title: "Designing in the Dark"
 date: 2004-08-11T08:10:00-07:00
-draft: true
+draft: false
 ---
 [This](https://web.archive.org/web/20040924085445/http://www.maadmob.net/donna/blog/archives/000570.html "DonnaM: How do they do it?") sounds painfully familiar:  
 

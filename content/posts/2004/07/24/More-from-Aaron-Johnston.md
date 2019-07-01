@@ -1,7 +1,7 @@
 ---
 title: "More From Aaron Johnston"
 date: 2004-07-24T10:56:00-07:00
-draft: true
+draft: false
 ---
 Good walk through of roundtrip engineering with Hibernate: 
 

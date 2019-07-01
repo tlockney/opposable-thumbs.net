@@ -1,7 +1,7 @@
 ---
 title: "Digging Deep Into Camping"
 date: 2006-06-19
-draft: true
+draft: false
 ---
 
 For a while now I’ve been watching the development of [Camping](https://web.archive.org/web/20060718205610/http://camping.rubyforge.org/files/README.html). I’m not sure anyone can really trace [where or how Camping came about ](https://web.archive.org/web/20060718205610/http://redhanded.hobix.com/bits/campingAMicroframework.html)– I’m sure [why](https://web.archive.org/web/20060718205610/http://whytheluckystiff.net/) won’t reveal the true history. It has to be an interesting story. 

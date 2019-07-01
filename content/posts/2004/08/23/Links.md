@@ -1,7 +1,7 @@
 ---
 title: "Links"
 date: 2004-08-23
-draft: true
+draft: false
 ---
 1.  [mezzoblue css Zen Garden Resource Guide](https://web.archive.org/web/20040924085445/http://www.mezzoblue.com/zengarden/resources/)  
     _Posted: 2004-08-23T06:05:00Z (categories: [css](https://web.archive.org/web/20040924085445/http://del.icio.us/tlockney/css) [webdesign](https://web.archive.org/web/20040924085445/http://del.icio.us/tlockney/webdesign) )_

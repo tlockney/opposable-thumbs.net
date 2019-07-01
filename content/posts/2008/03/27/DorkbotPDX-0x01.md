@@ -1,7 +1,7 @@
 ---
 title: "DorkbotPDX 0x01"
 date: 2008-03-27
-draft: true
+draft: false
 ---
 DorkbotPDX 0x01 will be taking place on March 30th at the PNCA Graduate Studios building (1432 NW Johnson St.). Doors will be opening up around 6 -- show up early if you want to meet other dorks or find out what makes us tick.
 

@@ -1,7 +1,7 @@
 ---
 title: "High on Fire"
 date: 2007-10-17
-draft: true
+draft: false
 ---
 I just had to share this (hope the embedded object works) 
 

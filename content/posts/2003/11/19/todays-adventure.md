@@ -1,7 +1,7 @@
 ---
 title: "Today's Adventure"
 date: 2003-11-19	
-draft: true
+draft: false
 ---
 note: this was suppossed to be posted yesterday, but various little things got in the way...
 

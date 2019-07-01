@@ -1,7 +1,7 @@
 ---
 title: "SiteMesh in Ruby?"
 date: 2006-11-09
-draft: true
+draft: false
 ---
 
 I've been working on setting up some servers for a project with which I'm involved (in all my infinite spare time). These servers are going to have a variety of web applications running (some of which will be third-party), but we (that is, me and the other guy ;~) would like to keep a somewhat consistent look & feel across the board. 

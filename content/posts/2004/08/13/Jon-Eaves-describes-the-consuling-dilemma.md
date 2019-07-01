@@ -1,7 +1,7 @@
 ---
 title: "Jon Eaves Describes the Consuling Dilemma"
 date: 2004-08-13
-draft: true
+draft: false
 ---
 [Jon Eaves describes](https://web.archive.org/web/20040924085445/http://www.eaves.org/blog-archive/000092.html "That's so stupid that it's not even wrong: The Consulting Dilemma") what he refers to as the consulting dilemma, that is, the fact that as a consultant you are usually brought in to work with companies that you wouldn't ever choose to work for and often in the worst of circumstances (the project has run off track, the team has no process defined, the architecture is a mess or nonexistent). 
 

@@ -1,7 +1,7 @@
 ---
 title: "A Quick Twitter Hack"
 date: 2007-10-19
-draft: true
+draft: false
 ---
 So, a friend of mine asked me to put together something that would update a particular twitter account every so often with content from a text file he sent me. Of course, anyone who has spent more than 30 seconds playing with twitter4r knows how simple this is, but I thought I'd post the code here just for posterity. It's not doing anything fancy whatsoever.
 

@@ -1,6 +1,6 @@
 ---
 title: "Test Post"
 date: 2008-07-27
-draft: true
+draft: false
 ---
 This is just a quick test. Ignore me. `;~)`

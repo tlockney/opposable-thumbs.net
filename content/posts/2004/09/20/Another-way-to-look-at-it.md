@@ -1,7 +1,7 @@
 ---
 title: "Another Way to Look at It"
 date: 2004-09-20T14:17:00-07:00
-draft: true
+draft: false
 ---
 Now, there's an interesting way to look at things:
 

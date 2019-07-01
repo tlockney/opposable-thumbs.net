@@ -1,7 +1,7 @@
 ---
 title: "Whiskey Bar Dissects SEC Settlement With Halliburton"
 date: 2004-08-06
-draft: true
+draft: false
 ---
 [Whiskey Bar: Where Was Dick?](https://web.archive.org/web/20040902204138/http://billmon.org/archives/001619.html "Whiskey Bar: Where Was Dick?")  
 

@@ -1,7 +1,7 @@
 ---
 title: "Turning On..."
 date: 2003-10-19
-draft: true
+draft: false
 ---
 Last night I was at Little City with Nicole, when I ran into my friend John who I hadn't seen in ages. John is a fascinating character. He teaches astronomy classes at Austin Community College and tutors in math and physics. In addition to all this, he has a deep connection with the truely spiritual aspects of the world.
 

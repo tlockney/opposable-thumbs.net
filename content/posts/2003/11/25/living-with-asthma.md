@@ -1,7 +1,7 @@
 ---
 title: "Living With Asthma"
 date: 2003-11-25
-draft: true
+draft: false
 ---
 
 Today I woke up with a funny feeling in my lungs. It was like a tickle that no matter how much I hacked and coughed just wouldn't go away. There was a light constriction to my breathing so I pretty much knew right away this wasn't just some normal run of the mill congestion (it is that time of year after all).

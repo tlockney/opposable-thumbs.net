@@ -1,7 +1,7 @@
 ---
 title: "Rudy Rucker on Computation and Death"
 date: 2004-08-19
-draft: true
+draft: false
 ---
 [Rudy Rucker writes:](https://web.archive.org/web/20040924085445/http://boingboing.net/text/2004_08_15_guestbar.html#109267498643749028 "Rudy Rucker explains halting")
 
