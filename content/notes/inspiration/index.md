@@ -6,3 +6,5 @@ menu: "notes"
 ---
 
 A collection of random sources of inspiration.
+
+* [Speculative Identities](https://speculativeidentities.com/)
