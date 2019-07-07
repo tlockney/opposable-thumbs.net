@@ -3,15 +3,17 @@ languageCode = "en-us"
 title = "Opposable Thumbs"
 theme = "mainroad"
 
+[permalinks]
+	posts = "/posts/:year/:month/:slug/"
+
 [Author]
 	name = "Thomas Lockney"
-	bio = "Instigator. Interests: dogs, distsys, data, ML/AI, miscellaneous weirdness."
 
 [Params]
 	subtitle = "Are we not men?"
 	copyright = "Thomas Lockney"
 	twitter_cards = true
-	authorbox = true
+	# authorbox = true
 	post_meta = ["date", "categories", "translations"]
 	post_navigation = true	
 

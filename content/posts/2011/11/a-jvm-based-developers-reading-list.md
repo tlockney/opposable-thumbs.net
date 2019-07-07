@@ -8,7 +8,7 @@ tags:
  - Java
  - Linux
 draft: false
----	
+---
 The other day, I found myself in a series of discussions with some fellow developers, in part about the performance characteristics of large numbers of threads in a JVM running on a Linux system. While I would not claim to be any sort of expert on the subject, it was clear that some of the information I had thought was fairly well known, was not nearly as pervasive as I assumed. Later on, I was asked for some recommended reading on the subject and had to confess that I didn't know of much good material. As so often happens, though, I soon remembered a handful of resources that I feel are worth investigating.
 
 And so, here's my recommended reading list for developers who find themselves working in a JVM-based environment who need to understand the characteristics of that environment, particularly as it pertains to performance and concurrency issues. I can't, with any honesty at least, claim to have read all of these in whole. That said, after the previously mentioned conversations, I have decided it is worth my time to fill in the gaps in my knowledge, and am attempting to read and learn from each of these, as much as reasonable possible. It's fundamental to my beliefs that if you have any sense of dedication to craftmanship, it is imperative that you constantly seek to learn more.

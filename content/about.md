@@ -1,12 +1,12 @@
 ---
 title: "About..."
 date: 2019-06-29T16:23:07-07:00
-draft: false	
+draft: false
 ---
 
 ## This site
 
-A collection of miscellaneous thoughts and whatnots.	
+A collection of miscellaneous thoughts and whatnots.
 
 ## The author
 
@@ -24,3 +24,7 @@ At various times I have been:
 * a proofreader and reviewer for numerous technical books
 
 I have more books than I know what to do with and not enough time to read them all. Which is how it should be. I adore dogs, especially my own, and I love watching movies and binging on great TV shows (mostly British) with my wife.
+
+![profile_pic]
+
+[profile_pic]: /images/ns_profile_pic.jpeg "Thomas Lockney profile pic"
