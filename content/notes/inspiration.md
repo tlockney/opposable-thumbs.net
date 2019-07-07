@@ -1,6 +1,7 @@
 ---
 title: "Inspiration"
 date: 2019-06-29T16:45:47-07:00
+description: "Sources of inspiration."
 draft: false
 menu: "notes"
 ---
