@@ -1,7 +1,7 @@
 ---
 title: "Links"
 date: 2004-08-25
-draft: false
+draft: true
 ---
 1.  [Commons Launcher - Overview](https://web.archive.org/web/20040924085445/http://jakarta.apache.org/commons/launcher/)  
     _Posted: 2004-08-25T01:34:40Z (categories: [java](https://web.archive.org/web/20040924085445/http://del.icio.us/tlockney/java) )_

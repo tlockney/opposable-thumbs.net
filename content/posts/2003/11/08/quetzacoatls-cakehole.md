@@ -12,22 +12,22 @@ Well, the whole reason I'm thinking about this is because last night I stumbled 
 
 And now... here's the list along with the descriptions we submitted. Personally, I think some of these are just crying out to be used for real. Guess I'll have to start another band one of these days.
 
-**Quetzalcoatl's Cakehole & The Aztec Espionage Empire**
+### Quetzalcoatl's Cakehole & The Aztec Espionage Empire
 
 StealthyNinjasUnderSacredInfluenceStealYour-ThoughtsToReignSupreme.
 
-**Household Cleansers**
+### Household Cleansers
 
 Fat,bubblySoundsCaressing&DevouringYourBrain.;
 
-**Psychivore**
+### Psychivore
 
 Sesquipedalian zygomatic non-feathered bipeds discombobulating simpering chanteuses. Titillating telepathic technicians: cerebellum connoisseurs devouring discomforts. Sesquicentennial celebratory sanitized stereographic selection, serendipitously serene satire. Alliteratively alleviating alienation answering anomalous query. Psychivore, with poison control Matt.
 
-**Linoleum Freud**
+### Linoleum Freud
 
 ThisFullOnSpaceTripRockoutBlastWillEatYourHead.
 
-**Unquestioningly Delicious Hothballs & The Supercilious Taun-Taun Riders**
+### Unquestioningly Delicious Hothballs & The Supercilious Taun-Taun Riders
 
 BrainSucker.

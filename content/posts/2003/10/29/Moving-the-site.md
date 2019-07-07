@@ -1,7 +1,7 @@
 ---
 title: "Moving the Site"
 date: 2003-10-29T10:33:00-07:00
-draft: false
+draft: true
 ---
 I've been doing some thinking lately about the work that I've been doing and plan to do outside of my [primary job](https://web.archive.org/web/20031203004239/http://www.esoterix.com/). I was recently talking to a friend about doing some work for his company as an independent consultant. It occured to me that I don't have much in the way of a professional face to present to him or his employers even though I have a background in this sort of work.
 

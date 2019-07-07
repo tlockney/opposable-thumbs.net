@@ -4,7 +4,7 @@ date: 2007-06-20
 draft: false
 ---
 
-So, it occured to me that after soliciting everyone in [DorkbotPDX](https://web.archive.org/web/20090205154227/http://dorkbotpdx.org/) to post the announcement for this to their blogs, I failed to do so myself. Bad self! So, here it is, the official announcement for the first ever DorkbotPDX event:
+So, it occured to me that after soliciting everyone in [DorkbotPDX](https://dorkbotpdx.org/) to post the announcement for this to their blogs, I failed to do so myself. Bad self! So, here it is, the official announcement for the first ever DorkbotPDX event:
 
 Come join DorkbotPDX, people doing strange things with electricity, for our inaugural event at Vendetta on June 24th at 5pm. If you're a hacker, painter, engineer or sculpture, musician or maker you'll fit right in. We bring together the tech and art worlds and enjoy it all over a pint of beer. We'll have presentations and performances by these fine folks:
 

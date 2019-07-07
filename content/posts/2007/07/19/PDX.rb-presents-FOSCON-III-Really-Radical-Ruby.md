@@ -11,4 +11,4 @@ This will all be taking place on Tuesday, July 24th, 7:30PM at Holocene (http://
 
 There will be plenty of Ruby fun going on and lots of socializing with other people interested in Ruby. Last year, FOSCON II was overflowing. We've found a new venue to fit you all in, so why would you miss it?
 
-http://upcoming.yahoo.com/event/216872 or http://foscon2007.com
+[http://upcoming.yahoo.com/event/216872](https://web.archive.org/web/20070712202018/http://upcoming.yahoo.com/event/216872) or [http://foscon2007.com](https://web.archive.org/web/20070821050356/http://www.foscon2007.com/)

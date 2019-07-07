@@ -1,11 +1,11 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Prehensile Tail"
+title = "Opposable Thumbs"
 theme = "mainroad"
 
 [Author]
 	name = "Thomas Lockney"
-	bio = "Instigator. Interests: dogs, distsys, data, ML/AI. Nike Engineering. Nike Tech Talks host. Views are my own."
+	bio = "Instigator. Interests: dogs, distsys, data, ML/AI, miscellaneous weirdness."
 
 [Params]
 	subtitle = "Are we not men?"

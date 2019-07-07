@@ -1,7 +1,7 @@
 ---
 title: "ITunes Rocks"
 date: 2003-10-21
-draft: false
+draft: true
 ---
 After hearing from all my Mac using friends how much iTunes rocks, I was pleasantly surprised to see that Apple recently release a version for Windows (which is unfortunately still my main work platform). There's not a whole lot to it, but I have to say, it's quickly become my favorite interface for listening to mp3s. 
 

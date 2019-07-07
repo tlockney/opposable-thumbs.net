@@ -1,7 +1,7 @@
 ---
 title: "Links"
 date: 2004-08-24
-draft: false
+draft: true
 ---
 1.  [Raible Designs ~ My Tiles to SiteMesh Migration](https://web.archive.org/web/20040924085445/http://raibledesigns.com/page/rd/20040821#my_tiles_to_sitemesh_migration)  
     _Posted: 2004-08-24T15:02:29Z (categories: [java](https://web.archive.org/web/20040924085445/http://del.icio.us/tlockney/java) [sitemesh](https://web.archive.org/web/20040924085445/http://del.icio.us/tlockney/sitemesh) [tiles](https://web.archive.org/web/20040924085445/http://del.icio.us/tlockney/tiles) [webapp](https://web.archive.org/web/20040924085445/http://del.icio.us/tlockney/webapp) )_

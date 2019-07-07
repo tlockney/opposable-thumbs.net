@@ -1,7 +1,7 @@
 ---
 title: "Profound Words From Da Vinci"
 date: 2004-08-07T22:53:44-07:00
-draft: false
+draft: true
 ---
 [Page 5, The Notebooks of Leonardo Da Vinci](https://web.archive.org/web/20040902204138/http://interconnected.org/home/more/davinci/5.html "Page 5, The Notebooks of Leonardo Da Vinci")  
 

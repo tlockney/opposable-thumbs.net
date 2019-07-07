@@ -1,7 +1,7 @@
 ---
 title: "Del.icio.us post to Opposable Thumbs"
 date: 2007-10-07
-draft: false
+draft: true
 ---
 First, if you've visited here in the last month or so (not just reading my feed), you probably noticed that I set up my [del.icio.us bookmarks](https://web.archive.org/web/20090205154227/http://del.icio.us/tlockney "del.icio.us bookmarks") to actually get saved as posts here. Over the course of time, it started looking pretty awful considering my relatively infrequent posts (I mean the real posts with actual content written by me).   
 

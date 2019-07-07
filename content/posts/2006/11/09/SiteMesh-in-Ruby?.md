@@ -4,7 +4,7 @@ date: 2006-11-09
 draft: false
 ---
 
-I've been working on setting up some servers for a project with which I'm involved (in all my infinite spare time). These servers are going to have a variety of web applications running (some of which will be third-party), but we (that is, me and the other guy ;~) would like to keep a somewhat consistent look & feel across the board. 
+I've been working on setting up some servers for a project with which I'm involved (in all my infinite spare time). These servers are going to have a variety of web applications running (some of which will be third-party), but we (that is, me and the other guy ;~) would like to keep a somewhat consistent look & feel across the board.
 
 Of course, the obvious solution is to just edit the templates provided with each application (assuming the _have_ templates at all). As the number of applications grows, the enjoyment level of doing this decreases rapidly.
 
@@ -12,8 +12,8 @@ Another solution that was thrown around was to make sure all the applications ou
 
 One approach which I've looked at in the past is to use something like [SiteMesh](https://web.archive.org/web/20071226040630/http://www.opensymphony.com/sitemesh/) which also does filtering, but is a bit more direct and doesn't require well-formed XHTML to do it's dirty work. On the other hand, it's a java-based system, and I'm hoping to avoid having to run a java application server for the foreseeable future (I know it's coming at some point, actually, but I'm going to limit that to just the servers that require it, if possible).
 
-While chatting about this problem on the [PDX.rb](https://web.archive.org/web/20071226040630/http://pdxruby.org/) [IRC channel](https://web.archive.org/web/20071226040630/irc://freenode.net/%23pdxruby) a few weeks back, [rcoder](https://web.archive.org/web/20071226040630/http://rcoder.net/) pointed me to [this](https://web.archive.org/web/20071226040630/http://redhanded.hobix.com/inspect/inAndOutFiltersForHackedMod_ruby.html) wonderful gem from [why](https://web.archive.org/web/20071226040630/http://whytheluckystiff.net/). I tried it out later that day and never could get it to work. 
+While chatting about this problem on the [PDX.rb](https://web.archive.org/web/20071226040630/http://pdxruby.org/) [IRC channel](irc://freenode.net/%23pdxruby) a few weeks back, [rcoder](http://rcoder.net/) pointed me to [this](https://web.archive.org/web/20071226040630/http://redhanded.hobix.com/inspect/inAndOutFiltersForHackedMod_ruby.html) wonderful gem from [why](https://web.archive.org/web/20071226040630/http://whytheluckystiff.net/). I tried it out later that day and never could get it to work. 
 
-But tonight, I started fresh with a nice clean build of Apache and why's modified [mod_ruby](https://web.archive.org/web/20071226040630/http://whytheluckystiff.net/ruby/mod_ruby-filtered-12.27.2005.tar.gz) and I'm happy to report that I got his example working perfectly. 
+But tonight, I started fresh with a nice clean build of Apache and why's modified [mod_ruby](https://web.archive.org/web/20071226040630/http://whytheluckystiff.net/ruby/mod_ruby-filtered-12.27.2005.tar.gz) and I'm happy to report that I got his example working perfectly.
 
 So now, the next step is to lay out a design for a SiteMesh like system, but using some nice Ruby idioms and conventions and see where I can get with this. If it gets to a point where it's halfway usable, I might just have something that I can put out for all to see. Of course, it will be a little weird releasing some code that depends on a hacked version of a little used (at least so far as I can tell) module for Apache, but that's the way things go sometimes.

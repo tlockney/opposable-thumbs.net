@@ -1,7 +1,7 @@
 ---
 title: "No, Really..."
 date: 2004-09-22T13:46:00-07:00
-draft: false
+draft: true
 ---
 [Industrie Toulouse: Just Guessing](https://web.archive.org/web/20040924085445/http://toulouse.amber.org/archives/2004/09/22/just_guessing.html "Industrie Toulouse: Just Guessing")
 

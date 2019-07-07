@@ -1,7 +1,7 @@
 ---
 title: "I Passed 8th Grade Math!"
 date: 2005-10-29
-draft: false
+draft: true
 ---
 <font face="Georgia, Times New Roman, Times, serif" style="color:black; font-size: 14pt;">
 <strong>You Passed 8th Grade Math</strong>
