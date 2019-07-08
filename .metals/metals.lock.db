@@ -1,6 +1,0 @@
-#FileLock
-#Sat Jul 06 21:39:33 PDT 2019
-hostName=192.168.1.26
-id=16bcaadb7665c161e0105db33e686ffac632453bfa3
-method=file
-server=192.168.1.26\:65097
