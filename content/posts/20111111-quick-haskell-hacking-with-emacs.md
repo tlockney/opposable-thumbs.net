@@ -1,6 +1,7 @@
 ---
 title: "Quick Haskell Hacking with Emacs"
 date: 2011-11-11
+slug: "quick-haskell-hacking-with-emacs"
 tags: 
  - Haskell
  - Emacs

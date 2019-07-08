@@ -1,6 +1,7 @@
 ---
 title: "Enabling Technology"
 date: 2003-07-24T08:54:00-07:00
+slug: "enabling-technology"
 draft: false
 ---
 In the [latest  edition of EDGE](http://www.edge.org/documents/archive/edge123.html) there's a great article from [Neil Gershenfeld](http://ng.cba.mit.edu/) on the empowerment of people through enabling technology. In this case, though, we're not talking so much about the usual digitial technology (the internet and it's related mechanisms) so much as fabrication tools and microcontrollers. A few choice excerpts:  

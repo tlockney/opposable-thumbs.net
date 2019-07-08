@@ -1,6 +1,7 @@
 ---
 title: "A few Akka posts"
 date: 2012-08-16
+slug: "a-few-akka-posts"
 tags: 
  - akka
  - scala

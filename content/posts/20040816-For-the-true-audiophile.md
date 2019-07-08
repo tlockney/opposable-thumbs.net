@@ -1,6 +1,7 @@
 ---
 title: "For the True Audiophile"
 date: 2004-08-16
+slug: "for-the-true-audiophile"
 draft: false
 ---
 [Michael Fremer reveiws the Wavac SH-833 monoblock power amplifier](https://www.stereophile.com/tubepoweramps/704wavac/index.html "Stereophile: Wavac SH-833 monoblock power amplifier"). Now, granted, this is a review of a _$350,000_ amplifier, but this line just kills me:

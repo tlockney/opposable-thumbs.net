@@ -1,6 +1,7 @@
 ---
 title: "Pi, Kottke, and the Circle"
 date: 2005-07-18
+slug: "pi-kottke-and-the-circle"
 draft: false
 ---
 Kottke acutely [points out the “meaning” of Pi](https://kottke.org/05/07/pi-god-supercomputers):

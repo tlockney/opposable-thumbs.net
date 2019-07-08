@@ -1,6 +1,7 @@
 ---
 title: "Collective Intelligence and (Programming) Language Learning"
 date: 2007-08-18
+slug: "collective-intelligence-and-language-learning"s
 draft: false
 ---
 

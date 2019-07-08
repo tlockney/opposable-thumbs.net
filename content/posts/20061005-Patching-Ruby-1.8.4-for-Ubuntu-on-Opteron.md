@@ -1,6 +1,7 @@
 ---
 title: "Patching Ruby 1.8.4 for Ubuntu on Opteron"
 date: 2006-10-05
+slug: "patching-ruby-1.8.4"
 draft: false
 ---
 Late last night while trying to get rails running on a server I was setting up, I ran into an odd error. Sadly, I failed to save the error message itself and my browser history has been woefully unhelpful in finding the google searches I did to track down the issue. However, I _can_ recreate the sequence of steps I took to fix the problem. 

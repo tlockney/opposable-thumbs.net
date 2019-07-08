@@ -1,6 +1,7 @@
 ---
 title: "Stafford Beer"
 date: 2003-09-11T16:53:00-07:00
+slug: "stafford-beer"
 draft: false
 ---
 The previous entry's mention of needing enough variety to make a reasonable selection about which school for Nicole to attend remind me of another interesting subject which I've been reading about lately: [Stafford Beer](https://www.wikiwand.com/en/Stafford_Beer).

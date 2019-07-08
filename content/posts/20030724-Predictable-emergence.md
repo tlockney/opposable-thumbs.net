@@ -1,6 +1,7 @@
 ---
 title: "Predictable Emergence"
 date: 2003-07-24T09:43:00-07:00
+slug: "predictable-emergence"
 draft: false
 ---
 Here's a quote from the Neil Gershenfeld article I linked to in the previous entry that I find particularly intriguing:

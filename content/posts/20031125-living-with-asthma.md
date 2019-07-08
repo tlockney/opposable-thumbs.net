@@ -1,6 +1,7 @@
 ---
 title: "Living With Asthma"
 date: 2003-11-25
+slug: "living-with-asthma"
 draft: false
 ---
 

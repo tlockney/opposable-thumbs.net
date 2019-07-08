@@ -1,6 +1,7 @@
 ---
 title: "Today's Adventure"
 date: 2003-11-19	
+slug: "todays-adventure"
 draft: false
 ---
 note: this was suppossed to be posted yesterday, but various little things got in the way...

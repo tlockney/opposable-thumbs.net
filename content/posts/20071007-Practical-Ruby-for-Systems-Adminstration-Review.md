@@ -1,6 +1,7 @@
 ---
 title: "Practical Ruby for Systems Adminstration Review"
 date: 2007-10-07
+slug: "practical-ruby-for-systems-admistration-review"
 draft: false
 ---
 

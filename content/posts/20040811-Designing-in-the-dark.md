@@ -1,6 +1,7 @@
 ---
 title: "Designing in the Dark"
 date: 2004-08-11T08:10:00-07:00
+slug: "designing-in-the-dark"
 draft: false
 ---
 [This](http://maadmob.net/donna/blog/2004/how-do-they-do-it) sounds painfully familiar:  

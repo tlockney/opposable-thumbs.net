@@ -1,6 +1,7 @@
 ---
 title: "The Power of ActiveRecord and Strange Coincidences"
 date: 2006-01-05
+slug: "the-power-of-activerecord"
 draft: false
 ---
 _Sorry for those of you coming here expecting non-technical posts, but I **did** start this thing for technical purposes, after all, and I figured it was about time to return to form._

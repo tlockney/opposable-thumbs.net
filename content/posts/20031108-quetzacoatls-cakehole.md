@@ -1,6 +1,7 @@
 ---
 title: "Quetzacoatl's Cakehole"
 date: 2003-11-08
+slug: "quetzacoatls-cakehole"
 draft: false
 ---
 

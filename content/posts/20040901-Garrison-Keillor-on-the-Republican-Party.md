@@ -1,6 +1,7 @@
 ---
 title: "Garrison Keillor on the Republican Party"
 date: 2004-09-01T19:39:56-07:00
+slug: "garrison-keillor-on-the-republican-party"
 draft: false
 ---
 

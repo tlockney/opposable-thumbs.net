@@ -1,6 +1,7 @@
 ---
 title: "Clarke's Laws"
 date: 2003-07-24T08:21:00-07:00
+slug: "clarkes-laws"
 draft: false
 ---
 

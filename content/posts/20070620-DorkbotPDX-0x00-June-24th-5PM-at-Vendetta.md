@@ -1,6 +1,7 @@
 ---
 title: "DorkbotPDX 0x00 June 24th 5PM at Vendetta"
 date: 2007-06-20
+slug: "dorkbotpdx-0x00"
 draft: false
 ---
 

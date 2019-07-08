@@ -1,6 +1,7 @@
 ---
 title: "O'Reilly Announces Make Magazine"
 date: 2004-07-29
+slug: "oreilly-announces-make-magazine"
 draft: false
 ---
 Finally! The [magazine](https://web.archive.org/web/20040902204138/http://make.oreilly.com/) I've been waiting for all my life. 

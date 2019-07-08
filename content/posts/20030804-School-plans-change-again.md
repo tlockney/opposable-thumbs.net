@@ -1,6 +1,7 @@
 ---
 title: "School Plans Change... Again"
 date: 2003-08-04
+slug: "school-plans-change-again"
 draft: false
 ---
 I guess those of you who know me already suspect it's about time for another change of plans anyway... well, it _is_ that time of year again, isn't it? 

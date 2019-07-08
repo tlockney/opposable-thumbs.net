@@ -1,6 +1,7 @@
 ---
 title: "Digging Deep Into Camping"
 date: 2006-06-19
+slug: "digging-deep-into-camping"
 draft: false
 ---
 

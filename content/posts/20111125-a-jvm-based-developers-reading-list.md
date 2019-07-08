@@ -2,6 +2,7 @@
 title: A reading list for JVM-based developers
 author: tlockney
 date: 2011-11-25
+slug: "a-jvm-based-developers-reading-list"
 tags: 
  - JVM
  - Scala

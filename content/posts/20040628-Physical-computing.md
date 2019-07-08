@@ -1,6 +1,7 @@
 ---
 title: "Physical Computing"
 date: 2004-06-28T22:17:00-07:00
+slug: "physical-computing"
 draft: false
 ---
 

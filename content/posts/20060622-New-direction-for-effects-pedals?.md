@@ -1,6 +1,7 @@
 ---
 title: "New Direction for Effects Pedals?"
 date: 2006-06-22
+slug: "new-direction-for-effects-pedals"
 draft: false
 ---
 I've long thought that it would be really slick to instrument some of my guitar effect pedals with a couple of [PIC](https://web.archive.org/web/20070613015007/http://www.microchip.com/stellent/idcplg?IdcService=SS_GET_PAGE&nodeId=74) chips to add in some nice computer control capabilities. Being able to to control the volume, tone and sustain all in sync on a [Big Muff](https://www.wikiwand.com/en/Big_Muff) pedal all while playing some whacked out [Chrome](https://www.wikiwand.com/en/Chrome_(band))-esque riffs would be truely sweet.

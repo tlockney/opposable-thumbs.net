@@ -1,6 +1,7 @@
 ---
 title: "The Singularity"
 date: 2003-07-24T10:12:00-07:00
+slug: "the-singularity"
 draft: false
 ---
 Just realized that I have not linked to Vernor Vinge's article on the singularity (which you can read [here](https://web.archive.org/web/20030805211132/http://www.ugcs.caltech.edu/~phoenix/vinge/vinge-sing.html)). The reason I bring this up is [this article](http://marshallbrain.com/robotic-nation.htm) which a coworker just refered me to. It talks about the coming robotic age (my appelation for it, not his) and it's affect on our economy. The reasons this caught my eye are twofold: one, it evokes the idea of the singularity and what might happen when all of this technology accelerates to these speeds; and, two, the idea that our economy is not quite prepared to handle this sort of change. 

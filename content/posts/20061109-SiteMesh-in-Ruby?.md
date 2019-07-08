@@ -1,6 +1,7 @@
 ---
 title: "SiteMesh in Ruby?"
 date: 2006-11-09
+slug: "sitemesh-in-ruby"
 draft: false
 ---
 

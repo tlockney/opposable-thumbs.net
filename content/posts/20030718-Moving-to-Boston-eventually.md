@@ -1,6 +1,7 @@
 ---
 title: "Moving to Boston... Eventually"
 date: 2003-07-18T11:24:00-07:00
+slug: "moving-to-boston"
 draft: false
 ---
 Yup, that's right, as the title says, we've decided Boston is the place. Nicole's applying to law school for next year and we've decided that instead of applying all over the place she's just going to apply to schools in the Boston area. I think the list includes Suffolk, Northeastern, Boston University and Harvard last I heard. Seems like I'm forgetting one, but I'm sure she'll tell me when she reads this. Anyway, shes more than qualified for most of those and within the higher ranks of candidates for Harvard, so it's not so much where she'll be accepted to as how much money they want to give her. Of course, if Harvard accepts her, how can we honestly turn that down? We'll see.

@@ -1,6 +1,7 @@
 ---
 title: "It's the End of the World as You Know It..."
 date: 2007-09-27
+slug: "its-the-end-of-the-world"
 draft: false
 ---
 Ok, so here's the deal, my laptop (supplied by my employer) is kaput. The BIOS started report SMART errors about a month ago, but I didn't worry about it too much. I never got any errors while using it, so I just backed everything up and figured eventually I'd get them to send me a new drive.   
