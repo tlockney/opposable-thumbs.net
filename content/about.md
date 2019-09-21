@@ -16,11 +16,11 @@ I'm also the host of the Nike Tech Talks, a highly successful series of events s
 
 At various times I have been:
 
-* a software engineer, architect, and lead
+* a software engineer, architect, and leader (both tech lead and people manager)
 * the founder and organizer of the now defunct [PNWScala](http://pnwscala.org/) conference
 * a conference speaker at OSCON (2010, [2015](https://youtu.be/-LiQCpPj8RM)) & [AWS re:invent 2016](https://youtu.be/7R5FLvr-aBE)
-* a user group founder & organizer, including [DorkbotPDX](http://dorkbotpdx.org/), [PDXScala](https://www.meetup.com/PDXScala/), and various of others
-* a presenter at a variety of user groups and internal company events
+* a user group founder & organizer, including [DorkbotPDX](http://dorkbotpdx.org/), [PDXScala](https://www.meetup.com/PDXScala/), and various others
+* a presenter at a variety of user groups, meetups, and company events
 * a proofreader and reviewer for numerous technical books
 
 I have more books than I know what to do with and not enough time to read them all. Which is how it should be. I adore dogs, especially my own, and I love watching movies and binging on great TV shows (mostly British) with my wife.
