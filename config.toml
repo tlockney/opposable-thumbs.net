@@ -35,8 +35,8 @@ copyright = "&copy; Copyright 2020 Thomas Lockney"
 	name = "About"
 	url = "/about"
 	weight = 100
-[[menu.main]]
-	identifier = "notes"
-	name = "Notes"
-	url = "/notes"
-	weight = 100
+#[[menu.main]]
+#	identifier = "notes"
+#	name = "Notes"
+#	url = "/notes"
+#	weight = 100
