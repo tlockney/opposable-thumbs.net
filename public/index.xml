@@ -1,23 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prehensile Tail</title>
+    <title>Opposable Thumbs</title>
     <link>/</link>
-    <description>Recent content on Prehensile Tail</description>
+    <description>Recent content on Opposable Thumbs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jun 2019 16:23:07 -0700</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 29 Jun 2019 16:45:47 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talks</title>
+      <link>/talks/</link>
+      <pubDate>Sun, 07 Jul 2019 00:43:07 -0700</pubDate>
+      
+      <guid>/talks/</guid>
+      <description>This is a test.
+  </description>
+    </item>
     
     <item>
-      <title>About</title>
+      <title>Inspiration</title>
+      <link>/notes/inspiration/</link>
+      <pubDate>Sat, 29 Jun 2019 16:45:47 -0700</pubDate>
+      
+      <guid>/notes/inspiration/</guid>
+      <description>A collection of random sources of inspiration.
+ Speculative Identities  </description>
+    </item>
+    
+    <item>
+      <title>About...</title>
       <link>/about/</link>
       <pubDate>Sat, 29 Jun 2019 16:23:07 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>I&amp;rsquo;m a Portland, Oregon based software engineer and leader passionate about building great engineering teams with a focus on autonomy and accountability. I&amp;rsquo;m currently employed at Nike as a Senior Engineering Manager where I work as part of the Nike Digital Platform Engineering organization. If you&amp;rsquo;ve used the Nike+ Run Club or Nike Training Club apps, your data is managed by the systems my team built. Our current focus is on building better capabilities to power our digital marketing efforts.</description>
+      <description>This site A collection of miscellaneous thoughts and whatnots.
+The author I&amp;rsquo;m a Portland, Oregon based software engineer and leader passionate about building great engineering teams with a focus on autonomy and accountability. I&amp;rsquo;m currently employed at Nike as a Senior Engineering Manager where I work as part of the Nike Digital Platform Engineering organization. If you&amp;rsquo;ve used the Nike Run Club or Nike Training Club apps, your data is managed by the systems built by a team I helped lead.</description>
     </item>
     
     <item>
@@ -26,7 +43,7 @@
       <pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>/posts/2012/08/a-few-akka-posts/</guid>
-      <description>Update: unfortunately, the Safari Books blog no longer seems to be around, so the following links are all broken. And consequently, the articles are now lost.
+      <description>Update: unfortunately, the Safari Books blog no longer seems to be around, so the following links are all pointed at their Archive.org copies.
 Recently I was asked to write a few posts for the Safari Books Online blog. They were looking for Scala content, so I suggested Akka as a central theme. I wrote these posts with an audience in mind that hopefully would have been exposed to Scala (or could, at least, read a short Scala tutorial), but who had not yet written any Akka code.</description>
     </item>
     
@@ -46,6 +63,579 @@ Recently I was asked to write a few posts for the Safari Books Online blog. They
       
       <guid>/posts/2011/11/quick-haskell-hacking-with-emacs/</guid>
       <description>A couple days ago I was playing around with my Emacs configuration a bit and decided to see if I could find ways to make it a more direct part of my flow (whatever the hell that means). For a quick sample of sorts, I threw together this little hack that let&amp;rsquo;s me popup a quick Emacs window with a buffer that&amp;rsquo;s already running haskell-mode (I assume here that you already have it installed, if not, you can find info on the haskell-mode page).</description>
+    </item>
+    
+    <item>
+      <title>DorkbotPDX 0x01</title>
+      <link>/posts/2008/03/dorkbotpdx-0x01/</link>
+      <pubDate>Thu, 27 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2008/03/dorkbotpdx-0x01/</guid>
+      <description>DorkbotPDX 0x01 will be taking place on March 30th at the PNCA Graduate Studios building (1432 NW Johnson St.). Doors will be opening up around 6 &amp;ndash; show up early if you want to meet other dorks or find out what makes us tick.
+The lineup of speakers is:  Cathy Swider - Using LEGO Mindstorm NXT robots with students to create art Ward Cunningham - What If Bacteria Designed Computers?</description>
+    </item>
+    
+    <item>
+      <title>Programming Collective Intelligence Review</title>
+      <link>/posts/2007/10/programming-collective-intelligence-review/</link>
+      <pubDate>Mon, 08 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2007/10/programming-collective-intelligence-review/</guid>
+      <description>This is a review I wrote on Amazon for Programming Collective Intelligence by Toby Segaran. I decided I should post a copy of it here for safe keeping. I hope to write a more detailed review of it at some point, but we&amp;rsquo;ll see how far that idea gets.
+I first learned of this book just a few weeks ago, shortly before it was available. I immediately read the sample chapter on the publisher&amp;rsquo;s website and was certain I had to get a hold of a copy.</description>
+    </item>
+    
+    <item>
+      <title>Programming Collective Intelligence Review</title>
+      <link>/posts/2007/10/programming-collective-intelligence-review/</link>
+      <pubDate>Mon, 08 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2007/10/programming-collective-intelligence-review/</guid>
+      <description>This is a review I wrote on Amazon for Programming Collective Intelligence by Toby Segaran. I decided I should post a copy of it here for safe keeping. I hope to write a more detailed review of it at some point, but we&amp;rsquo;ll see how far that idea gets.
+I first learned of this book just a few weeks ago, shortly before it was available. I immediately read the sample chapter on the publisher&amp;rsquo;s website and was certain I had to get a hold of a copy.</description>
+    </item>
+    
+    <item>
+      <title>Practical Ruby for Systems Adminstration Review</title>
+      <link>/posts/2007/10/practical-ruby-for-systems-admistration-review/</link>
+      <pubDate>Sun, 07 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2007/10/practical-ruby-for-systems-admistration-review/</guid>
+      <description>This is a brief review I wrote of Practical Ruby for System Administration by André Ben Hamou. I was going to try and have it published elsewhere, but decided I should post it here.
+Ruby has been growing at a staggering rate of popularity over the last couple of years. In particular, its use as a web-programming language has probably not failed to get many peoples&#39; attention. However, given the precedence set by languages like Perl and Python for use in systems administration related work and the undisputed reality that Ruby has been influenced by these predecessors (in particular Perl), it should come as no surprise that its growth in the sysadmin world has been similarly on the upswing.</description>
+    </item>
+    
+    <item>
+      <title>VMware Desktop via XDMCP (Stay Awake Now)</title>
+      <link>/posts/2007/09/vmware-desktop-via-xdmcp/</link>
+      <pubDate>Fri, 28 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2007/09/vmware-desktop-via-xdmcp/</guid>
+      <description>So, in the effort to get myself setup to work on my desktop machine, I&amp;rsquo;ve been thinking about a different approach to my workspace configuration. I&amp;rsquo;m not talking about the physical workspace, though I&amp;rsquo;ve had many thoughts about that, too. This is about my virtual workspace. Really, truly virtual.
+Some people know that I&amp;rsquo;ve been a long-time fan of VMware. I think I first started using around 1999 or 2000, when it was still a very early and somewhat rough bit of software.</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s the End of the World as You Know It...</title>
+      <link>/posts/2007/09/its-the-end-of-the-world/</link>
+      <pubDate>Thu, 27 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2007/09/its-the-end-of-the-world/</guid>
+      <description>Ok, so here&amp;rsquo;s the deal, my laptop (supplied by my employer) is kaput. The BIOS started report SMART errors about a month ago, but I didn&amp;rsquo;t worry about it too much. I never got any errors while using it, so I just backed everything up and figured eventually I&amp;rsquo;d get them to send me a new drive.
+But then it got worse: the LCD started going crazy. It would randomly fade to a sort of greenish, off-white color.</description>
+    </item>
+    
+    <item>
+      <title>PDX.rb presents FOSCON III: Really Radical Ruby</title>
+      <link>/posts/2007/07/pdxrb-presents-fosconiii/</link>
+      <pubDate>Thu, 19 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2007/07/pdxrb-presents-fosconiii/</guid>
+      <description>Once again the Portland Ruby Brigade will be hosting an evening of wide ranging talks about Ruby. This year the focus is on people doing strange things with Ruby. Strange, of course, is anything just a bit outside the usual. If you&amp;rsquo;ve created a new Ruby-based interface for hacking your brand new internet-enabled phone (rPhone anyone?) or composed your latest bit of metaprogramming magic, we&amp;rsquo;d love to hear about it.</description>
+    </item>
+    
+    <item>
+      <title>DorkbotPDX 0x00 June 24th 5PM at Vendetta</title>
+      <link>/posts/2007/06/dorkbotpdx-0x00/</link>
+      <pubDate>Wed, 20 Jun 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2007/06/dorkbotpdx-0x00/</guid>
+      <description>So, it occured to me that after soliciting everyone in DorkbotPDX to post the announcement for this to their blogs, I failed to do so myself. Bad self! So, here it is, the official announcement for the first ever DorkbotPDX event:
+Come join DorkbotPDX, people doing strange things with electricity, for our inaugural event at Vendetta on June 24th at 5pm. If you&amp;rsquo;re a hacker, painter, engineer or sculpture, musician or maker you&amp;rsquo;ll fit right in.</description>
+    </item>
+    
+    <item>
+      <title>First Two Tech Reviews Just Got Published</title>
+      <link>/posts/2007/01/first-two-tech-reviews/</link>
+      <pubDate>Thu, 18 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2007/01/first-two-tech-reviews/</guid>
+      <description>A while back I agreed to do tech reviews for two Ruby books from O’Reilly. The first of these, Ajax on Rails by Scott Raymond, was just published a few weeks ago. It looks to be quite an excellent piece of work (of course, I know the tech reviewing was top notch ;~). I just received word that the second, Rails Cookbook by Rob Orsini, has been published, too.
+Both look to be worth picking up.</description>
+    </item>
+    
+    <item>
+      <title>RubyMesh Lives!</title>
+      <link>/posts/2006/11/rubymesh-lives/</link>
+      <pubDate>Sun, 19 Nov 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2006/11/rubymesh-lives/</guid>
+      <description>well, sorta anyway. I did some more playing around with why&amp;rsquo;s modifications to mod_ruby and was able to throw together a quick test to show that in fact it should be quite possible to implement a SiteMesh-like system using Apache, mod_ruby (patched) and Hpricot. Here&amp;rsquo;s, in short, how I did it.
+First, I downloaded Apache 2.0.59 since that&amp;rsquo;s close to the version we&amp;rsquo;re running on the server on which I&amp;rsquo;ll eventually be using this system (it&amp;rsquo;s actually 2.</description>
+    </item>
+    
+    <item>
+      <title>SiteMesh in Ruby?</title>
+      <link>/posts/2006/11/sitemesh-in-ruby/</link>
+      <pubDate>Thu, 09 Nov 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2006/11/sitemesh-in-ruby/</guid>
+      <description>I&amp;rsquo;ve been working on setting up some servers for a project with which I&amp;rsquo;m involved (in all my infinite spare time). These servers are going to have a variety of web applications running (some of which will be third-party), but we (that is, me and the other guy ;~) would like to keep a somewhat consistent look &amp;amp; feel across the board.
+Of course, the obvious solution is to just edit the templates provided with each application (assuming the have templates at all).</description>
+    </item>
+    
+    <item>
+      <title>Patching Ruby 1.8.4 for Ubuntu on Opteron</title>
+      <link>/posts/2006/10/patching-ruby-1.8.4/</link>
+      <pubDate>Thu, 05 Oct 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2006/10/patching-ruby-1.8.4/</guid>
+      <description>Late last night while trying to get rails running on a server I was setting up, I ran into an odd error. Sadly, I failed to save the error message itself and my browser history has been woefully unhelpful in finding the google searches I did to track down the issue. However, I can recreate the sequence of steps I took to fix the problem.
+First, though, let me give you the scenario.</description>
+    </item>
+    
+    <item>
+      <title>Dorkbot, FOSCON/OSCON, Book Reviews and More</title>
+      <link>/posts/2006/08/dorkbot-foscon-reviews/</link>
+      <pubDate>Mon, 14 Aug 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2006/08/dorkbot-foscon-reviews/</guid>
+      <description>So, just a quick update to let everyone know why I&amp;rsquo;ve disappeared and have been unable to find even a few spare seconds to update the blog. I&amp;rsquo;ve been just a wee bit busy.
+Last month I attended OSCON and helped put on FOSCON II. Both of which were awesome and exhausting. I met a lot of great people and learned about some interesting things. Hopefully I&amp;rsquo;ll find time to dig in a bit deeper on some of it.</description>
+    </item>
+    
+    <item>
+      <title>A Return to Blogging</title>
+      <link>/posts/2006/06/a-return-to-blogging/</link>
+      <pubDate>Thu, 22 Jun 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2006/06/a-return-to-blogging/</guid>
+      <description>I&amp;rsquo;ve decided to give a new browser a spin and see how it handles things. As my last post may have indicated to you already, the browser in question is called Flock. It makes a claim towards being the browser for the web 2.0 world. Well, maybe not so specifically, but it integrates various web-services in an attempt to make the browsing experience a little more&amp;hellip; well, just more. It&amp;rsquo;s hard to explain exactly what it brings to the table without simply listing it&amp;rsquo;s features and that&amp;rsquo;s just boring, so I&amp;rsquo;ll leave it to this fine review on ExtremeTech to do that for me.</description>
+    </item>
+    
+    <item>
+      <title>New Direction for Effects Pedals?</title>
+      <link>/posts/2006/06/new-direction-for-effects-pedals/</link>
+      <pubDate>Thu, 22 Jun 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2006/06/new-direction-for-effects-pedals/</guid>
+      <description>I&amp;rsquo;ve long thought that it would be really slick to instrument some of my guitar effect pedals with a couple of PIC chips to add in some nice computer control capabilities. Being able to to control the volume, tone and sustain all in sync on a Big Muff pedal all while playing some whacked out Chrome-esque riffs would be truely sweet.
+I&amp;rsquo;ve heard of other doing things similar to this on various DIY forums and such, but it looks like Guyatone is getting in on the game with some nice (though not cheap) commercial models.</description>
+    </item>
+    
+    <item>
+      <title>Digging Deep Into Camping</title>
+      <link>/posts/2006/06/digging-deep-into-camping/</link>
+      <pubDate>Mon, 19 Jun 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2006/06/digging-deep-into-camping/</guid>
+      <description>For a while now I’ve been watching the development of Camping. I’m not sure anyone can really trace where or how Camping came about – I’m sure why won’t reveal the true history. It has to be an interesting story.
+I’ve only played around with creating Camping applications a little bit, but I’ve found it’s quite intuitive and easy. The funny thing about this is that the source of Camping itself is quite the opposite in many ways.</description>
+    </item>
+    
+    <item>
+      <title>100000 Years Old</title>
+      <link>/posts/2006/03/100000-years-old/</link>
+      <pubDate>Fri, 31 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2006/03/100000-years-old/</guid>
+      <description>In binary that is. Yes, today I turned 32 (making it easier for those of you not so inclined). Not much in the way of plans, but I’m taking a half day from work so that I can properly sit around and relax for a bit.</description>
+    </item>
+    
+    <item>
+      <title>The Power of ActiveRecord and Strange Coincidences</title>
+      <link>/posts/2006/01/the-power-of-activerecord/</link>
+      <pubDate>Thu, 05 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2006/01/the-power-of-activerecord/</guid>
+      <description>Sorry for those of you coming here expecting non-technical posts, but I did start this thing for technical purposes, after all, and I figured it was about time to return to form.
+Tonight I was working on a little side project I’m doing. I needed to pull a bunch of legacy data into a new table for event data. To make this work, I created a set of models that referenced the old tables, using the syntax ActiveRecord provides to override it’s default settings.</description>
+    </item>
+    
+    <item>
+      <title>The Oregon Coast</title>
+      <link>/posts/2005/09/the-oregon-coast/</link>
+      <pubDate>Thu, 15 Sep 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2005/09/the-oregon-coast/</guid>
+      <description>Nicole, the doggies and I went to Cannon Beach this last weekend. It was gorgeous weather for it and we had a splendid time. I’ve upload some of the photos to flickr. Check them out here and here. That second set is of the sitka spruce we saw on the way out there. It’s the tallest of it’s kind in the US. It’s an amazing site, but this place is full of things like that.</description>
+    </item>
+    
+    <item>
+      <title>Updates...</title>
+      <link>/posts/2005/09/updates/</link>
+      <pubDate>Fri, 09 Sep 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2005/09/updates/</guid>
+      <description>Well, lots has been going on lately. Too much, in fact, to bother keeping up with this blog. And, of course, there’s that whole things where each time something else goes on I find myself thinking, “well, there’s another thing I haven’t gotten around to blogging about.” And after a while the load just piles up so high…
+So, we’re in Portland now. Oregon, not Maine. It’s beautiful here. Nicole started law school.</description>
+    </item>
+    
+    <item>
+      <title>Pi, Kottke, and the Circle</title>
+      <link>/posts/2005/07/pi-kottke-and-the-circle/</link>
+      <pubDate>Mon, 18 Jul 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2005/07/pi-kottke-and-the-circle/</guid>
+      <description>Kottke acutely points out the “meaning” of Pi:
+ Oh, and as for patterns hidden in pi, we’ve already found one. It’s called the circle. Just because humans discovered circles first and pi later shouldn’t mean that the latter is derived from the former.
+ </description>
+    </item>
+    
+    <item>
+      <title>An Interesting Question</title>
+      <link>/posts/2004/09/an-interesting-question/</link>
+      <pubDate>Wed, 22 Sep 2004 13:02:00 -0700</pubDate>
+      
+      <guid>/posts/2004/09/an-interesting-question/</guid>
+      <description>Matt asks an interesting question: 
+ This ultimately comes down to how one views the human race: Are we the inheriters of the Earth, free to do with it as we will? Or, are we the stewards of the Earth, responsible for looking out for others species? Or, are we just a cog in the wheel, our actions no more or less unplanned or unintented by Mother Nature?
+ Personally, I think we are stewards.</description>
+    </item>
+    
+    <item>
+      <title>Another Way to Look at It</title>
+      <link>/posts/2004/09/another-way-to-look-at-it/</link>
+      <pubDate>Mon, 20 Sep 2004 14:17:00 -0700</pubDate>
+      
+      <guid>/posts/2004/09/another-way-to-look-at-it/</guid>
+      <description>Now, there&amp;rsquo;s an interesting way to look at things:
+ On which point, incidentally, I&amp;rsquo;m vaguely (ie not really) hoping for a Bush victory: not for political reasons [as much as I&amp;rsquo;m allowed to given my British citizenship and living in Italy and all, I find the guy deeply objectionable on every count] but because a Bush victory will hopefully cause the US Liberals to either rent some cojones from someone or move en masse over here.</description>
+    </item>
+    
+    <item>
+      <title>Garrison Keillor on the Republican Party</title>
+      <link>/posts/2004/09/garrison-keillor-on-the-republican-party/</link>
+      <pubDate>Wed, 01 Sep 2004 19:39:56 -0700</pubDate>
+      
+      <guid>/posts/2004/09/garrison-keillor-on-the-republican-party/</guid>
+      <description>Garrison Keillor, yes THE Garrison Keillor of Prairie Home Companion fame, the man who I fondly remember listening to back in my youngest days, tears apart the Republican Party:
+ Our beloved land has been fogged with fear&amp;ndash;fear, the greatest political strategy ever. An ominous silence, distant sirens, a drumbeat of whispered warnings and alarms to keep the public uneasy and silence the opposition. And in a time of vague fear, you can appoint bullet-brained judges, strip the bark off the Constitution, eviscerate federal regulatory agencies, bring public education to a standstill, stupefy the press, lavish gorgeous tax breaks on the rich.</description>
+    </item>
+    
+    <item>
+      <title>Rudy Rucker on Computation and Death</title>
+      <link>/posts/2004/08/rudy-rucker-on-computation-and-death/</link>
+      <pubDate>Thu, 19 Aug 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2004/08/rudy-rucker-on-computation-and-death/</guid>
+      <description>Rudy Rucker writes:
+ Speaking of time, how long does a computation continue?. We won&amp;rsquo;t impose any bound at all. Certain kinds of computation will indeed signal when they&amp;rsquo;ve arrived at a desired result &amp;mdash; for instance by beeping or by printing a result &amp;mdash; and then halt in the s	ense of no longer changing their states. But there&amp;rsquo;s a sense in which such computational processes continue after their halting point.</description>
+    </item>
+    
+    <item>
+      <title>For the True Audiophile</title>
+      <link>/posts/2004/08/for-the-true-audiophile/</link>
+      <pubDate>Mon, 16 Aug 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2004/08/for-the-true-audiophile/</guid>
+      <description>Michael Fremer reveiws the Wavac SH-833 monoblock power amplifier. Now, granted, this is a review of a $350,000 amplifier, but this line just kills me:
+ There&amp;rsquo;s nothing outrageous about spending a million bucks on a painting or a vintage automobile.
+ Pretty bold statement. Then again, this guy did try this thing out with London Calling, so I have to give him some credit. And, for that matter, the lucky bastard got to listen to this thing (these, really, it&amp;rsquo;s a matched pair of amps) for two whole months.</description>
+    </item>
+    
+    <item>
+      <title>Jon Eaves Describes the Consuling Dilemma</title>
+      <link>/posts/2004/08/jon-eaves-describes-the-consulting-dilemma/</link>
+      <pubDate>Fri, 13 Aug 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2004/08/jon-eaves-describes-the-consulting-dilemma/</guid>
+      <description>Jon Eaves describes what he refers to as the consulting dilemma, that is, the fact that as a consultant you are usually brought in to work with companies that you wouldn&amp;rsquo;t ever choose to work for and often in the worst of circumstances (the project has run off track, the team has no process defined, the architecture is a mess or nonexistent).
+While I&amp;rsquo;m not a consultant, I have thought a lot about this issue.</description>
+    </item>
+    
+    <item>
+      <title>Designing in the Dark</title>
+      <link>/posts/2004/08/designing-in-the-dark/</link>
+      <pubDate>Wed, 11 Aug 2004 08:10:00 -0700</pubDate>
+      
+      <guid>/posts/2004/08/designing-in-the-dark/</guid>
+      <description>This sounds painfully familiar:
+ I was talking to a programmer today who works for a business who does business software development for a large client. Their process is that the client sends a requirements document, they go back and forth a few times to sort out some detail, and he codes the software or enhancement.
+He never, ever sees a user, does not know who they are or what they do.</description>
+    </item>
+    
+    <item>
+      <title>O&#39;Reilly Announces Make Magazine</title>
+      <link>/posts/2004/07/oreilly-announces-make-magazine/</link>
+      <pubDate>Thu, 29 Jul 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2004/07/oreilly-announces-make-magazine/</guid>
+      <description>Finally! The magazine I&amp;rsquo;ve been waiting for all my life.
+Announced as OSCON in Portland, Make magazine: &amp;ldquo;filled with fun projects and hardware hacks involving technology&amp;rdquo; and &amp;ldquo;5-minute tips you can use to improve your gadgets, networks, and computers, as well as much longer projects that might take several days (or weeks) to complete.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Mitch Ratcliffe&#39;s Scathing Commentary on the 9/11 Commission Report</title>
+      <link>/posts/2004/07/mitch-ratcliffes-scathing-commentary/</link>
+      <pubDate>Sat, 24 Jul 2004 20:44:00 -0700</pubDate>
+      
+      <guid>/posts/2004/07/mitch-ratcliffes-scathing-commentary/</guid>
+      <description>I had a chance to read a little of the 9/11 Commission Report very early this morning and was struck immediately by its studied ignorance of embarrassing facts. It seems to seek ways around identifying the United States&#39; (and, by extension, the administrations of presidents since 1980) in creating the monster that attacked us on September 11, 2001.
+ http://www.ratcliffeblog.com/archives/000156.html</description>
+    </item>
+    
+    <item>
+      <title>Physical Computing</title>
+      <link>/posts/2004/06/physical-computing/</link>
+      <pubDate>Mon, 28 Jun 2004 22:17:00 -0700</pubDate>
+      
+      <guid>/posts/2004/06/physical-computing/</guid>
+      <description>I just discovered the term &amp;ldquo;physical computing,&amp;rdquo; which is used to describe the design and implementation of the hardware interface between man and machine. Tom Igoe teaches Physical Computing as part of the Interactive Telecommunications Program, Tisch School of the Arts, NYU.
+From his blog:
+ What is physical computing? It&amp;rsquo;s an approach to learning how humans communicate through computers that starts by considering how humans express themselves physically. A lot of beginning computer interface design instruction takes the computer hardware for given &amp;ndash; namely, that there is a keyboard, a screen, perhaps speakers, and a mouse &amp;ndash; and concentrates on teaching the software necessary to design within those boundaries.</description>
+    </item>
+    
+    <item>
+      <title>The Green Web</title>
+      <link>/posts/2004/04/the-green-web/</link>
+      <pubDate>Sun, 25 Apr 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2004/04/the-green-web/</guid>
+      <description>Here&amp;rsquo;s a great idea: Sascha Brawer is responsible for finding hosting for his local green party&amp;rsquo;s website and realized that he should find a solution that uses renewable energy. He&amp;rsquo;s doing this in Switzerland, but I would hope there&amp;rsquo;s options here in the States, too.</description>
+    </item>
+    
+    <item>
+      <title>As the World Turns</title>
+      <link>/posts/2004/03/as-the-world-turns/</link>
+      <pubDate>Sun, 28 Mar 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2004/03/as-the-world-turns/</guid>
+      <description>There&amp;rsquo;s an interesting story over at In Case You Didn&amp;rsquo;t Feel Like Showing Up describing the convoluted progress of the Eclipse Web Tools project. It certainly dims my outlook quite a bit. So much for the excitement.</description>
+    </item>
+    
+    <item>
+      <title>Java Threads Under Solaris</title>
+      <link>/posts/2004/03/java-threads-under-solaris/</link>
+      <pubDate>Wed, 24 Mar 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2004/03/java-threads-under-solaris/</guid>
+      <description>Here&amp;rsquo;s an interesting article on how java threads map onto the OS level threads under Solaris. Currently trying to diagnose and improve some performance problems on a production application server. This is some very cool stuff. I love getting this low level. Someday soon I&amp;rsquo;ve got to learn more about the VM.</description>
+    </item>
+    
+    <item>
+      <title>Defining &#34;Projects&#34;</title>
+      <link>/posts/2004/03/defining-projects/</link>
+      <pubDate>Sat, 06 Mar 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2004/03/defining-projects/</guid>
+      <description>Ever since I met Nicole one of the many, many things I&amp;rsquo;ve admired about her is the clear sense of the projects, goals and to-do list type items she has to take care of. Of course, she&amp;rsquo;s a keep of lists, something I&amp;rsquo;ve never been very good at. Recently, I&amp;rsquo;ve decided to try and start making this an element of my organizational strategy (if you can call it that). I asked Nicole for advice and she suggested that I start with a list of my projects.</description>
+    </item>
+    
+    <item>
+      <title>Hurray for YAGNI!</title>
+      <link>/posts/2004/03/hurray-for-yagni/</link>
+      <pubDate>Tue, 02 Mar 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2004/03/hurray-for-yagni/</guid>
+      <description>Ted Neward defends the principle of YAGNI (You Aren&amp;rsquo;t Gonna Need It):
+ But YAGNI isn&amp;rsquo;t something to cite to users, it&amp;rsquo;s a chant you murmur to yourself as you wipe out four layers of indirection against your database, because You Ain&amp;rsquo;t Gonna Need It.
+ </description>
+    </item>
+    
+    <item>
+      <title>Off to Oz</title>
+      <link>/posts/2004/02/off-to-oz/</link>
+      <pubDate>Sun, 22 Feb 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2004/02/off-to-oz/</guid>
+      <description>This sort of thing makes me really wonder why we&amp;rsquo;re not packing our bags for Australia this very moment. Tim is a very lucky man.</description>
+    </item>
+    
+    <item>
+      <title>Urban Effects on Climate</title>
+      <link>/posts/2004/02/urban-effects-on-climate/</link>
+      <pubDate>Tue, 17 Feb 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2004/02/urban-effects-on-climate/</guid>
+      <description>Here&amp;rsquo;s one to think about &amp;ndash; it even seems obivous in retrospect. Researchers have determined that our cities are built on the most fertile lands, which is impacting the climate since that land is critical in the overall cycle of the ecosystem. It appears that our yearly 1.8 percent gain in NPP (Net Primary Productivity &amp;ndash; a measure of plant growth based on the rate of carbon absorption) is being offset by a 1.</description>
+    </item>
+    
+    <item>
+      <title>Living With Asthma</title>
+      <link>/posts/2003/11/living-with-asthma/</link>
+      <pubDate>Tue, 25 Nov 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2003/11/living-with-asthma/</guid>
+      <description>Today I woke up with a funny feeling in my lungs. It was like a tickle that no matter how much I hacked and coughed just wouldn&amp;rsquo;t go away. There was a light constriction to my breathing so I pretty much knew right away this wasn&amp;rsquo;t just some normal run of the mill congestion (it is that time of year after all).
+As a child I regularly in and out of various doctor&amp;rsquo;s offices.</description>
+    </item>
+    
+    <item>
+      <title>Today&#39;s Adventure</title>
+      <link>/posts/2003/11/todays-adventure/</link>
+      <pubDate>Wed, 19 Nov 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2003/11/todays-adventure/</guid>
+      <description>note: this was suppossed to be posted yesterday, but various little things got in the way&amp;hellip;
+Some mornings just aren&amp;rsquo;t worth getting up for. That&amp;rsquo;s what I learned today.
+You see it all started when I stopped at the ATM to get some cash so that I could buy an espresso on the way in to the office. When I was walking back to my truck I noticed that my left rear tire was almost entirely flat.</description>
+    </item>
+    
+    <item>
+      <title>Quetzacoatl&#39;s Cakehole</title>
+      <link>/posts/2003/11/quetzacoatls-cakehole/</link>
+      <pubDate>Sat, 08 Nov 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2003/11/quetzacoatls-cakehole/</guid>
+      <description>So, back in the mid nineties, a couple of years after dropping out of UT, I was involved with a couple of guys in a musical experiment of sorts. You might call it a band, but I&amp;rsquo;m not sure that would have been the best way to describe it. Granted, that may have been how others would have described us, but it doesn&amp;rsquo;t seem to really capture the way we thought of ourselves.</description>
+    </item>
+    
+    <item>
+      <title>No Media Kings: Time Management for Anarchists</title>
+      <link>/posts/2003/10/time-management-for-anarchists/</link>
+      <pubDate>Wed, 29 Oct 2003 09:20:00 -0700</pubDate>
+      
+      <guid>/posts/2003/10/time-management-for-anarchists/</guid>
+      <description>From the wonderfully named site No Media Kings (now under the author&amp;rsquo;s own name at jimmunroe.net) comes Time Management for Anarchists.</description>
+    </item>
+    
+    <item>
+      <title>Turning On...</title>
+      <link>/posts/2003/10/turning-on/</link>
+      <pubDate>Sun, 19 Oct 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2003/10/turning-on/</guid>
+      <description>Last night I was at Little City with Nicole, when I ran into my friend John who I hadn&amp;rsquo;t seen in ages. John is a fascinating character. He teaches astronomy classes at Austin Community College and tutors in math and physics. In addition to all this, he has a deep connection with the truely spiritual aspects of the world.
+Our conversation last night began with a question about a book he was reading on Tibetan yogas and progressed through a relating of various experiences and thoughts on how the spiritual can creep up on even a cynical, critic like myself.</description>
+    </item>
+    
+    <item>
+      <title>Freaking Brilliant</title>
+      <link>/posts/2003/10/freaking-brilliant/</link>
+      <pubDate>Thu, 02 Oct 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2003/10/freaking-brilliant/</guid>
+      <description>The Book of Ratings : Dangers Symbols, part 2. I can&amp;rsquo;t stop laughing. The people in the cube next to mine must think I&amp;rsquo;m on drugs.</description>
+    </item>
+    
+    <item>
+      <title>A Moment of Silence</title>
+      <link>/posts/2003/09/a-moment-of-silence/</link>
+      <pubDate>Sat, 13 Sep 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2003/09/a-moment-of-silence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stafford Beer</title>
+      <link>/posts/2003/09/stafford-beer/</link>
+      <pubDate>Thu, 11 Sep 2003 16:53:00 -0700</pubDate>
+      
+      <guid>/posts/2003/09/stafford-beer/</guid>
+      <description>The previous entry&amp;rsquo;s mention of needing enough variety to make a reasonable selection about which school for Nicole to attend remind me of another interesting subject which I&amp;rsquo;ve been reading about lately: Stafford Beer.
+Beer, who I was not familiar with until just recently, was the founder of managerial cybernetics. Before you turn your attention elsewhere, let me point out that this is not nearly as boring (in my eyes anyway) as you might think.</description>
+    </item>
+    
+    <item>
+      <title>Latest Update on the Future Move</title>
+      <link>/posts/2003/09/latest-update-on-the-future-move/</link>
+      <pubDate>Thu, 11 Sep 2003 16:40:00 -0700</pubDate>
+      
+      <guid>/posts/2003/09/latest-update-on-the-future-move/</guid>
+      <description>Well, as usual, it&amp;rsquo;s been a while. The biggest news I can come up with at the moment is that we&amp;rsquo;ve expanded the list of choices for our move next year. After some serious discussion about which schools Nicole&amp;rsquo;s applying to, we decided that we should probably look a little more abroad. Not that we have any problem with Boston, it&amp;rsquo;s just that certain decisions she had made about the schools there and the line of reasoning we had used to choose the right schools for her had eliminated all but two schools from the list: Harvard and Boston University (at least at that point).</description>
+    </item>
+    
+    <item>
+      <title>School Plans Change... Again</title>
+      <link>/posts/2003/08/school-plans-change-again/</link>
+      <pubDate>Mon, 04 Aug 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2003/08/school-plans-change-again/</guid>
+      <description>I guess those of you who know me already suspect it&amp;rsquo;s about time for another change of plans anyway&amp;hellip; well, it is that time of year again, isn&amp;rsquo;t it?
+I guess it occured to me when a co-worker of mine brought up a program he was enrolling in that would allow him to continue working towards his computer science degree in the evenings. Of course, I&amp;rsquo;ve seen plenty of programs like this, but I didn&amp;rsquo;t know there were any in Austin.</description>
+    </item>
+    
+    <item>
+      <title>The Singularity</title>
+      <link>/posts/2003/07/the-singularity/</link>
+      <pubDate>Thu, 24 Jul 2003 10:12:00 -0700</pubDate>
+      
+      <guid>/posts/2003/07/the-singularity/</guid>
+      <description>Just realized that I have not linked to Vernor Vinge&amp;rsquo;s article on the singularity (which you can read here). The reason I bring this up is this article which a coworker just refered me to. It talks about the coming robotic age (my appelation for it, not his) and it&amp;rsquo;s affect on our economy. The reasons this caught my eye are twofold: one, it evokes the idea of the singularity and what might happen when all of this technology accelerates to these speeds; and, two, the idea that our economy is not quite prepared to handle this sort of change.</description>
+    </item>
+    
+    <item>
+      <title>Predictable Emergence</title>
+      <link>/posts/2003/07/predictable-emergence/</link>
+      <pubDate>Thu, 24 Jul 2003 09:43:00 -0700</pubDate>
+      
+      <guid>/posts/2003/07/predictable-emergence/</guid>
+      <description>Here&amp;rsquo;s a quote from the Neil Gershenfeld article I linked to in the previous entry that I find particularly intriguing:
+ The kind of taxonomy that biologists do has to turn into predictive design theories. Shannon did that once. He showed that the channel capacity, that threshold I was talking about, is equal to bandwidth times the logarithm of 1 plus the signal-to noise ratio. That let you suddenly take these disparate attributes and, independent of the details of a particular design, learn how to price them and trade them off.</description>
+    </item>
+    
+    <item>
+      <title>Enabling Technology</title>
+      <link>/posts/2003/07/enabling-technology/</link>
+      <pubDate>Thu, 24 Jul 2003 08:54:00 -0700</pubDate>
+      
+      <guid>/posts/2003/07/enabling-technology/</guid>
+      <description>In the latest edition of EDGE there&amp;rsquo;s a great article from Neil Gershenfeld on the empowerment of people through enabling technology. In this case, though, we&amp;rsquo;re not talking so much about the usual digitial technology (the internet and it&amp;rsquo;s related mechanisms) so much as fabrication tools and microcontrollers. A few choice excerpts:
+ In support of this basic research we started teaching a class, modestly called &amp;ldquo;How To Make (almost) Anything,&amp;rdquo; where we show students how to use the millions of dollars of machines available at MIT for making things.</description>
+    </item>
+    
+    <item>
+      <title>Clarke&#39;s Laws</title>
+      <link>/posts/2003/07/clarkes-laws/</link>
+      <pubDate>Thu, 24 Jul 2003 08:21:00 -0700</pubDate>
+      
+      <guid>/posts/2003/07/clarkes-laws/</guid>
+      <description> First Law: When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong. Second Law: The only way of discovering the limits of the possible is to venture a little way past them into the impossible. Third Law: Any sufficiently advanced technology is indistinguishable from magic.  </description>
+    </item>
+    
+    <item>
+      <title>Moving to Boston... Eventually</title>
+      <link>/posts/2003/07/moving-to-boston/</link>
+      <pubDate>Fri, 18 Jul 2003 11:24:00 -0700</pubDate>
+      
+      <guid>/posts/2003/07/moving-to-boston/</guid>
+      <description>Yup, that&amp;rsquo;s right, as the title says, we&amp;rsquo;ve decided Boston is the place. Nicole&amp;rsquo;s applying to law school for next year and we&amp;rsquo;ve decided that instead of applying all over the place she&amp;rsquo;s just going to apply to schools in the Boston area. I think the list includes Suffolk, Northeastern, Boston University and Harvard last I heard. Seems like I&amp;rsquo;m forgetting one, but I&amp;rsquo;m sure she&amp;rsquo;ll tell me when she reads this.</description>
+    </item>
+    
+    <item>
+      <title>Getting Old...</title>
+      <link>/posts/2003/07/getting-old/</link>
+      <pubDate>Fri, 18 Jul 2003 11:10:00 -0700</pubDate>
+      
+      <guid>/posts/2003/07/getting-old/</guid>
+      <description>I just noticed that the content on this site is getting so old and is so poorly maintained/updated that the sidebar on the right isn&amp;rsquo;t displaying correctly. And this isn&amp;rsquo;t even the first time I&amp;rsquo;ve noticed that. I guess it&amp;rsquo;s time to start with the inane updates about my life and crap like that, eh? I mean, that&amp;rsquo;s what you want isn&amp;rsquo;t it? Most of the links I give you are just stuff I&amp;rsquo;ve found somewhere else and I&amp;rsquo;m sure most of you read those sites anyways right?</description>
+    </item>
+    
+    <item>
+      <title>Survival of the Fittest</title>
+      <link>/posts/2003/07/survival-of-the-fittest/</link>
+      <pubDate>Wed, 16 Jul 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2003/07/survival-of-the-fittest/</guid>
+      <description>Read Creation Science Fair 2001 for an example of some good, old fashioned non-science and an example of why our future is pretty bleak if this kind of garbage continues to be taught. Particularly disturbing is the second place winner at the middle school level titled &amp;ldquo;Women Were Designed For Homemaking.&amp;rdquo; I&amp;rsquo;m having trouble believing that this is for real.</description>
+    </item>
+    
+    <item>
+      <title>Opposable Thumbs</title>
+      <link>/posts/2003/07/opposable-thumbs/</link>
+      <pubDate>Thu, 03 Jul 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2003/07/opposable-thumbs/</guid>
+      <description>Well, seeing as how this blog is called Opposable Thumbs, I finally decided that I should have a matching domain name. Unfortunately, opposablethumbs.com, opposablethumbs.net, etc. were all taken, but I was able to get the hyphenated opposable-thumbs.net. Let the thumb fights begin!</description>
+    </item>
+    
+    <item>
+      <title>Music in the Air</title>
+      <link>/posts/2003/06/music-in-the-air/</link>
+      <pubDate>Thu, 12 Jun 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2003/06/music-in-the-air/</guid>
+      <description>Air Halen - The state of American air guitar: sweaty, sincere, electric. By Dan Chiasson</description>
+    </item>
+    
+    <item>
+      <title>Changing the Rules to Win</title>
+      <link>/posts/2003/05/changing-the-rules-to-win/</link>
+      <pubDate>Thu, 29 May 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2003/05/changing-the-rules-to-win/</guid>
+      <description>Good article in the New York Times about how the Republican (I had to fight my urge not to capitalize that word) party is trying to change the rules of the game.</description>
+    </item>
+    
+    <item>
+      <title>A New Hope From an Old Source</title>
+      <link>/posts/2003/05/a-new-hope-from-an-old-source/</link>
+      <pubDate>Sat, 24 May 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2003/05/a-new-hope-from-an-old-source/</guid>
+      <description>To know now what we could never have know before 1969 &amp;ndash; that we now have an option for all humanity to &amp;ldquo;make it&amp;rdquo; successfully on this planet in this lifetime &amp;ndash; is not to be optimistic. It is only a validation of hope, a hope that had no operationally forseeable validity before 1969. Whether it is to be Utopian or Oblivion will be a touch-and-go relay race right up to the final moment.</description>
     </item>
     
   </channel>

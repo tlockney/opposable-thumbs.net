@@ -3,6 +3,8 @@ title: "Practical Ruby for Systems Adminstration Review"
 date: 2007-10-07
 slug: "practical-ruby-for-systems-admistration-review"
 draft: false
+tags:
+- reviews
 ---
 
 _This is a brief review I wrote of [Practical Ruby for System Administration](https://www.amazon.com/Practical-System-Administration-Experts-Source/dp/1590598210) by André Ben Hamou. I was going to try and have it published elsewhere, but decided I should post it here._

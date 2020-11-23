@@ -3,7 +3,7 @@ title: "Talks"
 description: ""
 date: 2019-07-07T00:43:07-07:00
 thumbnail: ""
-draft: false
+draft: true
 ---
 
 This is a test.

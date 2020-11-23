@@ -1,7 +1,11 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Opposable Thumbs"
-theme = "mainroad"
+theme = "whiteplain"
+pygmentsCodefences = true
+pygmentsUseClasses = true
+pygmentsOptions = "linenos=table"
+copyright = "&copy; Copyright 2020 Thomas Lockney"
 
 [permalinks]
 	posts = "/posts/:year/:month/:slug/"
@@ -9,38 +13,28 @@ theme = "mainroad"
 [Author]
 	name = "Thomas Lockney"
 
-[Params]
-	subtitle = "Are we not men?"
-	copyright = "Thomas Lockney"
-	twitter_cards = true
-	# authorbox = true
-	post_meta = ["date", "categories", "translations"]
-	post_navigation = true	
-
-[Params.sidebar]
-	home = "right"
-	list = "right"
-	single = false
-	widgets = ["recent", "social", "sidemenu"]
-
-[Params.widgets.social]
+[params.author]
+	name = "Thomas Lockney"	
+	gravatar = "thomas@lockney.net"
 	twitter = "tlockney"
 	linkedin = "thomaslockney"
 	instagram = "tlockney"
 	github = "tlockney"
+	medium = "tlockney"
+	youtube = "ThomasLockney"
+	email = "thomas@lockney.net"
+	facebook = "tlockney"
 
 [[menu.main]]
 	identifier = "blog"
 	name = "Blog"
 	url = "/posts"
 	weight = 100
-
 [[menu.main]]
 	identifier = "about"
 	name = "About"
 	url = "/about"
 	weight = 100
-
 [[menu.main]]
 	identifier = "notes"
 	name = "Notes"

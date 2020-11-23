@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Java on Prehensile Tail</title>
+    <title>Java on Opposable Thumbs</title>
     <link>/tags/java/</link>
-    <description>Recent content in Java on Prehensile Tail</description>
+    <description>Recent content in Java on Opposable Thumbs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Nov 2011 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/java/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 25 Nov 2011 00:00:00 +0000</lastBuildDate><atom:link href="/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A reading list for JVM-based developers</title>
       <link>/posts/2011/11/a-jvm-based-developers-reading-list/</link>

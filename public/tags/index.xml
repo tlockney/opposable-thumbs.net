@@ -1,15 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Prehensile Tail</title>
+    <title>Tags on Opposable Thumbs</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Prehensile Tail</description>
+    <description>Recent content in Tags on Opposable Thumbs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Aug 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 16 Aug 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>akka</title>
+      <link>/tags/akka/</link>
+      <pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/akka/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scala</title>
@@ -21,11 +26,11 @@
     </item>
     
     <item>
-      <title>akka</title>
-      <link>/tags/akka/</link>
-      <pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate>
+      <title>Java</title>
+      <link>/tags/java/</link>
+      <pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>/tags/akka/</guid>
+      <guid>/tags/java/</guid>
       <description></description>
     </item>
     
@@ -35,15 +40,6 @@
       <pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>/tags/jvm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java</title>
-      <link>/tags/java/</link>
-      <pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/java/</guid>
       <description></description>
     </item>
     
@@ -71,6 +67,15 @@
       <pubDate>Fri, 11 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>/tags/haskell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reviews</title>
+      <link>/tags/reviews/</link>
+      <pubDate>Mon, 08 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/reviews/</guid>
       <description></description>
     </item>
     
