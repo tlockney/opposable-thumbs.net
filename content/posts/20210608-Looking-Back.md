@@ -5,7 +5,8 @@ date: 2021-06-08T21:47:59-07:00
 slug: "looking-back"
 thumbnail: ""
 tags: 
-- ""
+- career
+- nike
 draft: false
 ---
 
