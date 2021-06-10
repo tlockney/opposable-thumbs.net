@@ -5,6 +5,7 @@ slug: "dorkbotpdx-0x00"
 draft: false
 tags:
 - dorkbot
+- dorkbotpdx
 ---
 
 So, it occured to me that after soliciting everyone in [DorkbotPDX](https://dorkbotpdx.org/) to post the announcement for this to their blogs, I failed to do so myself. Bad self! So, here it is, the official announcement for the first ever DorkbotPDX event:
