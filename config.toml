@@ -24,7 +24,7 @@ copyright = "&copy; Copyright 2020 Thomas Lockney"
 	youtube = "ThomasLockney"
 	email = "thomas@lockney.net"
 	facebook = "tlockney"
-	mastodon = "fosstodon/@tlockney"
+	mastodon = "fosstodon.org/@tlockney"
 
 [[menu.main]]
 	identifier = "blog"
