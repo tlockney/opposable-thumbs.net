@@ -4,6 +4,9 @@
     {{- with .twitter }}
     <li><a href="//twitter.com/{{ . }}" rel="me" target="_blank"><i class="fab fa-twitter"></i></a></li>
     {{- end }}
+    {{- with .mastodon }}
+    <li><a href="//{{ . }}" rel="me" target="_blank"><i class="fabfa-mastodon"></i></a></li>
+    {{- end }}
     {{- with .facebook }}
     <li><a href="//facebook.com/{{ . }}" rel="me" target="_blank"><i class="fab fa-facebook"></i></a></li>
     {{- end }}
