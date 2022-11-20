@@ -42,6 +42,10 @@
   <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
   {{- end }}
 
+  {{- with .Site.Params.author.mastodon }}
+  <link href="https://{{ . }}" rel="me" />
+  {{- end}}
+
   {{- partial "head_custom.html" . }}
 
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" media="all" />
